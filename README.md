@@ -1,4 +1,4 @@
-# What will you find here ?
+# Awesome Cisco Spark
 
 A curated list of Cisco Spark resources for Developers. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -16,6 +16,9 @@ Please take a quick gander at the contribution guidelines first. Thanks to all c
 - [Demo Samples](#demo-samples)
 - [Integrations, Bots](#integrations-bots)
 - [Resources](#resources)
+
+
+
 
 
 
