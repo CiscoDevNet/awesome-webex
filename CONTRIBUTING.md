@@ -1,22 +1,30 @@
 This resource was made by the Cisco Spark Developer community and wouldn't be possible without you! 
 
-We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/sparkdev-ressources-catalog/graphs/contributors).
+We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/awesome-ciscospark/graphs/contributors).
 
 
 # Contribution Guidelines
 
-- **To add, remove, or change things on the list:** Submit a pull request
+**To add, remove, or change the curated list:**, submit a pull request
+- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/PR_TEMPLATE.md) 
+- add the reason why the resource is worth being added 
 
-To set this list apart from and compliment the Cisco Spark Developer Documentation, this repo is a specially curated list for high-quality, actively maintained resources.
+To set this list apart from and compliment the official Cisco Spark Documentation, this repo is a specially curated list for high-quality, actively maintained resources.
+- Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
+- Add one resource per Pull Request.
+-- Search existing resources before making a new one, as yours may be a duplicate.
+- Add the link: * [project-name](http://example.com/) - A short description ends with a period.
+-- Keep descriptions clear, concise, and non-promotional
+- Add a section if needed 
+-- Needs bibliotica 3 (minimum required) to create a new section
+-- Add the section description.
+-- Add the section title to Table of Contents.
+- Don't mention Cisco Spark in the resource description as it's implied.
+- Check your spelling and grammar.
+- Remove any trailing whitespace.
 
-- List items should be sorted *alphabetically*.
-- Each item should be limited to one link
-- The link should be the name of the project or article
-- Descriptions should be clear, concise, and non-promotional
-- Descriptions should follow the link, on the same line
-- Needs bibliotica 3 (minimum) to create a new category.
-
-Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
+In case of doubt, we'll leave it to the community to decide if the resource should be added, by placing votes on the Pull Request. 
+10+ votes will make the resource automatically added.  
 
 
 ## Quality standard
