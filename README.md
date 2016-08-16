@@ -22,6 +22,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 *Helper libraries to interact with the Cisco Spark API, in various languages.*
 
+* Go 
+    * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
 * Java
     * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library (Cisco Spark team).
 * NodeJS
