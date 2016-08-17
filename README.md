@@ -13,7 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 ### Contents
 
 - [Client SDKs](#client-sdks)
-- [Integration frameworks](#integration frameworks)
+- [Integration frameworks](#integration-frameworks)
 - [Tools](#tools)
 - [Other Resources](#other-resources)
 
@@ -39,8 +39,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 *Libraries to create notifiers, watchers, interactive assistants, bots.*
 
 * Javascript
-     * [flint](https://github.com/nmarus/flint/commits/master) - Bot SDK for Node JS (by nmarus)
-     * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS Starter Kit to create your own Spark bot (by ObjectIsAdvantag)
+     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
+     * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
 * [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 
 
@@ -48,10 +48,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 *Utilities to interact with the Cisco Spark API, without coding.*
 
-* [API Reference](https://developer.ciscospark.com/quick-reference.html) - the official interactive documentation (by Spark for Developers)
 * [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-* <a name="cis">Cloud Integration Services</a> - assemble and compose integrations from pre-built modules (priced services)
+* <a name="cis">Cloud Integration Services</a> - assemble and compose integrations from pre-built modules (priced services with trials)
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined templates (signin required)
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - available recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended zaps
@@ -59,12 +58,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ## Other resources
 
-*Articles, Demos, Scripts, Misc*
+*Articles, Demos, Scripts, Others*
 
-* [status page](https://status.ciscospark.com/) - Service availability for the Developer API (by Cisco Spark)
-* [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end encrypted cloud platform (by Cisco Spark)
+* Articles
+    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end encrypted cloud platform (by Cisco Spark)
 * Demos
+* Spark for Developers
+    * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation 
+    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service 
+    * [service status](https://status.ciscospark.com/) - service availability page for the Developer API
 * Scripts
+* Tutorials
+    * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
+
 
 
 
