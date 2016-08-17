@@ -32,7 +32,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 * Python
     * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
     * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
-    * [pyCiscoSparkAPI](https://github.com/shenning00/) - Python SDK interface (by shenning00)
 
 
 ## Integration frameworks
@@ -42,7 +41,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - Bot SDK for Node JS (by nmarus)
      * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS Starter Kit to create your own Spark bot (by ObjectIsAdvantag)
-* [Cloud Integration Services](#cis) - assemble and compose integrations from pre-built modules, (see Tools section)
+* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 
 
 ## Tools
@@ -52,7 +51,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 * [API Reference](https://developer.ciscospark.com/quick-reference.html) - the official interactive documentation (by Spark for Developers)
 * [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-* <a name="cis">Cloud Integration Services</a> - priced services with trials
+* <a name="cis">Cloud Integration Services</a> - assemble and compose integrations from pre-built modules (priced services)
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined templates (signin required)
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - available recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended zaps
