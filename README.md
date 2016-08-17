@@ -13,8 +13,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 ### Contents
 
 - [Client SDKs](#client-sdks)
-- [Demo Applications](#demo-applications)
-- [Integration/Bot frameworks](#integrations-bots)
+- [Integration frameworks](#integration frameworks)
 - [Tools](#tools)
 - [Other Resources](#other-resources)
 
@@ -36,19 +35,37 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
     * [pyCiscoSparkAPI](https://github.com/shenning00/) - Python SDK interface (by shenning00)
 
 
+## Integration frameworks
+
+*Libraries to create notifiers, watchers, interactive assistants, bots.*
+
+* Javascript
+     * [flint](https://github.com/nmarus/flint/commits/master) - Bot SDK for Node JS (by nmarus)
+     * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS Starter Kit to create your own Spark bot (by ObjectIsAdvantag)
+* [Cloud Integration Services](#cis) - assemble and compose integrations from pre-built modules, (see Tools section)
+
+
 ## Tools
 
 *Utilities to interact with the Cisco Spark API, without coding.*
 
 * [API Reference](https://developer.ciscospark.com/quick-reference.html) - the official interactive documentation (by Spark for Developers)
-* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by SteveSfartz)
+* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
+* <a name="cis">Cloud Integration Services</a> - priced services with trials
+     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined templates (signin required)
+     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - available recipies
+     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended zaps
 
 
+## Other resources
 
+*Articles, Demos, Scripts, Misc*
 
-
-
+* [status page](https://status.ciscospark.com/) - Service availability for the Developer API (by Cisco Spark)
+* [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end encrypted cloud platform (by Cisco Spark)
+* Demos
+* Scripts
 
 
 
