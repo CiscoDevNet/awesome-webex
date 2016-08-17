@@ -63,10 +63,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 * Articles
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end encrypted cloud platform (by Cisco Spark)
 * Demos
-* Spark for Developers
-    * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation 
-    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service 
-    * [service status](https://status.ciscospark.com/) - service availability page for the Developer API
+* Reference
+    * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
+    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service (by Spark for Developers)
+    * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
+    * [service status](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
 * Scripts
 * Tutorials
     * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
