@@ -41,7 +41,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 *Utilities to interact with the Cisco Spark API, without coding.*
 
 * [API Reference](https://developer.ciscospark.com/quick-reference.html) - the official interactive documentation (by Spark for Developers)
-* [Postman collection for Spark](http://bit.ly/POSTMAN-SPARK-API) - a Postman collection (by SteveSfartz)
+* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by SteveSfartz)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
 
