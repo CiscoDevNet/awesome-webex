@@ -15,6 +15,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Client SDKs](#client-sdks)
 - [Demo Applications](#demo-applications)
 - [Bot/Integration frameworks](#integrations-bots)
+- [Tools](#tools)
 - [Other Resources](#other-resources)
 
 
@@ -22,18 +23,26 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 *Helper libraries to interact with the Cisco Spark API, in various languages.*
 
-* Go 
+* Go
     * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
 * Java
-    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library (Cisco Spark team).
+    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library (Cisco Spark API team)
 * NodeJS
-    * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus).
-    * [spark-js-sdk](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Web client's Legacy SDK (Cisco Spark team).
+    * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
+    * [spark-js-sdk](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Web client's Legacy SDK (Cisco Spark team)
 * Python
     * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
     * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
     * [pyCiscoSparkAPI](https://github.com/shenning00/) - Python SDK interface (by shenning00)
 
+
+## Tools
+
+*Utilities to interact with the Cisco Spark API, without coding.*
+
+* [Spark for developers](https://developer.ciscospark.com/quick-reference.html) - the official interactive documentation (Cisco Spark API team)
+* [POSTMAN collection(http://bit.ly/POSTMAN-SPARK-API)] - a Postman collection (by SteveSfartz)
+* [CLI](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
 
 
