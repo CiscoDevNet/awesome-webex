@@ -54,6 +54,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined templates (signin required)
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - available recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended zaps
+     * [Gupshup](https://www.gupshup.io) - Cloud app-hosting service specializing in bots; includes Spark bot support
 
 
 ## Other resources
