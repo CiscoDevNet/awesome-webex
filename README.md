@@ -40,6 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
+     * [hutbot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter for Cisco Spark (by marchfederico)
      * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
 * [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 
