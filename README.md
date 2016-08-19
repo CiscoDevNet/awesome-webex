@@ -5,6 +5,8 @@ A curated list of Cisco Spark resources for Developers, inspired by [awesome-go]
 
 ### Contributing
 
+This list is published under [CC-BY-SA 4.0 license](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/LICENSE).
+
 Please take a quick gander at the [contribution guidelines](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md) first. Thanks to all contributors; you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!* 
@@ -72,13 +74,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 * Scripts
 * Tutorials
     * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
-
-
-
-
-
-
-
 
 
 
