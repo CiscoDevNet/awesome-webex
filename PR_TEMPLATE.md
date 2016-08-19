@@ -5,7 +5,6 @@ Please check if what you want to add to `awesome-ciscospark` meets [quality stan
 - [ ] I know that this resource was not listed before
 - [ ] I have added a link to the source code repo (except for documentation, articles etc.)
 - [ ] I have checked my resource is properly documented
-- [ ] I have checked the proposed resource comes with an opensource license
 - [ ] I have added a synthetic description of my resource
 - [ ] I have read the [Contribution guidelines](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md#contribution-guidelines) and [Quality standard](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md#quality-standard).
 
