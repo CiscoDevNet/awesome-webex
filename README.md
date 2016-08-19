@@ -50,11 +50,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 * [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-* <a name="cis">Cloud Integration Services</a> - assemble and compose integrations from pre-built modules (priced services with trials)
-     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined templates (signin required)
-     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - available recipies
-     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended zaps
-     * [Gupshup](https://www.gupshup.io) - Cloud app-hosting service specializing in bots; includes Spark bot support
+* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
+     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
+     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
+     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
+     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 
 
 ## Other resources
