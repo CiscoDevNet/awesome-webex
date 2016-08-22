@@ -53,13 +53,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Utilities to interact with the Cisco Spark API, without coding.*
 
-* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
-* [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 * <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
+* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
+* [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
 
 ## Other resources
