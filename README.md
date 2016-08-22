@@ -5,14 +5,17 @@ A curated list of Cisco Spark resources for Developers, inspired by [awesome-go]
 
 ### Contributing
 
-This list is published under [CC-BY-SA 4.0 license](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/LICENSE).
-
 Please take a quick gander at the [contribution guidelines](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md) first. Thanks to all contributors; you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!* 
 
 
 ### Contents
+
+You're entitled to reuse & distribute the contents of this list published under the terms of the [CC-BY-SA 4.0 license](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/LICENSE).
+
+DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via those links.
+
 
 - [Client SDKs](#client-sdks)
 - [Integration frameworks](#integration-frameworks)
