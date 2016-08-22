@@ -12,8 +12,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ### Contents
 
-You're entitled to reuse & distribute the contents of this list published under the terms of the [CC-BY-SA 4.0 license](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/LICENSE).
-
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via those links.
 
 
