@@ -23,7 +23,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Client SDKs
 
-*Helper libraries to consume Cisco Spark APIs, in various languages.*
+*Helper libraries to consume Cisco Spark APIs*
 
 * Public RESTful API SDKs
     * Go
@@ -52,6 +52,15 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
 
 
+## Samples
+
+*Inspiring code samples*
+
+* Bots 
+     * [(python) Room finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
+* Scripts
+
+
 ## Tools
 
 *Utilities to interact with the Cisco Spark API, without coding.*
@@ -77,7 +86,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service (by Spark for Developers)
     * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
     * [service status](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
-* Scripts
 * Tutorials
     * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
 
