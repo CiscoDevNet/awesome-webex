@@ -23,29 +23,33 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Client SDKs
 
-*Helper libraries to interact with the Cisco Spark API, in various languages.*
+*Helper libraries to consume Cisco Spark APIs, in various languages.*
 
-* Go
-    * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
-* Java
-    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library (by Spark for Developers)
-* NodeJS
-    * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
-    * [spark-js-sdk](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Web client's Legacy SDK (by Spark for Developers)
-* Python
-    * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
-    * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
+* Public RESTful API SDKs
+    * Go
+        * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
+    * Java
+        * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library for consuming RESTful APIs (by Cisco)
+    * NodeJS
+        * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
+        * [node-ciscospark](https://github.com/marchfederico/node-ciscospark) - a simple node module to work with the Spark APIs (by marchfederico)
+    * Python
+        * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
+        * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
+* Web & Mobile SDKs
+    * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
+    * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
 
 
 ## Integration frameworks
 
-*Libraries to create notifiers, watchers, interactive assistants, bots.*
+*Libraries to create all types of Spark integrations (notifiers, watchers, interactive assistants / bots).*
 
+* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
      * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
-* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 
 
 ## Tools
