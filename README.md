@@ -17,8 +17,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 - [Client SDKs](#client-sdks)
 - [Integration frameworks](#integration-frameworks)
-- [Tools](#tools)
 - [Reference](#reference)
+- [Samples](#samples)
+- [Tools](#tools)
 
 
 ## Client SDKs
