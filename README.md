@@ -18,7 +18,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [Client SDKs](#client-sdks)
 - [Integration frameworks](#integration-frameworks)
 - [Tools](#tools)
-- [Other Resources](#other-resources)
+- [Reference](#reference)
 
 
 ## Client SDKs
@@ -52,6 +52,19 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
 
 
+## Reference
+
+*Documentation and other resources maintained by Cisco Product teams*
+
+* Learn
+    * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
+    * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
+    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end secured service (by Cisco Spark)
+* Support
+    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service (by Spark for Developers)
+    * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
+
+
 ## Samples
 
 *Inspiring code samples*
@@ -70,24 +83,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
+* [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
 * [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-
-
-## Other resources
-
-*Articles, Demos, Scripts, Others*
-
-* Articles
-    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end encrypted cloud platform (by Cisco Spark)
-* Demos
-* Reference
-    * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
-    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service (by Spark for Developers)
-    * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
-    * [service status](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
-* Tutorials
-    * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
 
 
 
