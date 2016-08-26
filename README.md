@@ -36,6 +36,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * Python
         * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
         * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
+    * Ruby
+        * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke)
 * Web & Mobile SDKs
     * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
