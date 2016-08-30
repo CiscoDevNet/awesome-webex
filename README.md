@@ -72,6 +72,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Inspiring code samples*
 
+* Java
+     * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
 * Python
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
 * Ruby
