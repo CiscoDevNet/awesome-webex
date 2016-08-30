@@ -75,7 +75,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Python
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
 * Ruby
-     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Fault Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
+     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
 
 
 ## Tools
