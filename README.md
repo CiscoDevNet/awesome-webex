@@ -64,9 +64,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end secured service (by Cisco Spark)
 * Support
-    * [developer support](https://developer.ciscospark.com/support.html) - 24/7 free support service (by Spark for Developers)
+    * [depot](https://depot.ciscospark.com/) - hub for integrations & bots (by Cisco)
+    * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
-
+    
 
 ## Samples
 
