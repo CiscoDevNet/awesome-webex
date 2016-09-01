@@ -12,13 +12,13 @@ We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/aw
 To set this list apart from and compliment the official Cisco Spark Documentation, this repo is a specially curated list for high-quality, actively maintained resources.
 - Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 - Add one resource per Pull Request.
--- Search existing resources before making a new one, as yours may be a duplicate.
-- Add the link: * [project-name](http://example.com/) - A short description ends with a period.
--- Keep descriptions clear, concise, and non-promotional
+- Search existing resources before making a new one, as yours may be a duplicate.
+- Enforce this formatting : * [resource-name](http://link-to-your-resource-depot.com/) - A short description ends with a period.
+- Keep descriptions clear, concise, and non-promotional
 - Add a section if needed 
--- Needs bibliotica 3 (minimum required) to create a new section
--- Add the section description.
--- Add the section title to Table of Contents.
+   - Needs bibliotica 3 (minimum required) to create a new section
+   - Add the section description.
+   - Add the section title to Table of Contents.
 - Don't mention Cisco Spark in the resource description as it's implied.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
