@@ -77,6 +77,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
 * Python
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
+     * [My Spark Hero](https://github.com/hpreston/myhero_spark) -  python Flask chatbot to vote for your favorite superhero, deployable as a docker container on Mantl.io (by hpreston)
 * Ruby
      * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
 
