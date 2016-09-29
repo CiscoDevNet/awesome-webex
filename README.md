@@ -90,6 +90,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
+     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
