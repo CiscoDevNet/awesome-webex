@@ -92,7 +92,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
-* [Postman](http://bit.ly/POSTMAN-SPARK-API) - a scripted Postman collection (by ObjectIsAdvantag)
+* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
 
