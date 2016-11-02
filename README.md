@@ -15,11 +15,22 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via those links.
 
 
+- [Bot frameworks](#bot-frameworks)
 - [Client SDKs](#client-sdks)
-- [Integration frameworks](#integration-frameworks)
 - [Reference](#reference)
 - [Samples](#samples)
 - [Tools](#tools)
+
+
+## Bot frameworks
+
+*Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
+
+* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
+* Javascript
+     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
+     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
+     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build Spark Bots and experiment Cisco Spark Webhooks (by ObjectIsAdvantag)
 
 
 ## Client SDKs
@@ -42,17 +53,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Web & Mobile SDKs
     * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
-
-
-## Integration frameworks
-
-*Libraries to create all types of Spark integrations (notifiers, watchers, interactive assistants / bots).*
-
-* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
-* Javascript
-     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
-     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
-     * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
 
 
 ## Reference
