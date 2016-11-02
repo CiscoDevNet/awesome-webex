@@ -66,19 +66,23 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * Wiring Engines
-     * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API
+     * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
 
 
 ## Reference
 
-*Documentation and other resources maintained by Cisco Product teams*
+*Developer resources maintained by Cisco Product teams*
 
 * Learn
+    * [API documentation](https://developer.ciscospark.com/quick-reference.html) - the reference documentation (by Spark for Developers)
     * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
-    * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
+    * [learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - learn to build bots and integration (by CiscoDevNet)
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end secured service (by Cisco Spark)
+* Share
+    * [community of interest](https://developer.cisco.com/site/spark/) - share your passion for bots and integrations, learn from others (by CiscoDevNet)
+    * [creations](https://developer.cisco.com/site/devnetcreations/) - inspire others by sharing your code (by CiscoDevNet)
+    * [depot](https://depot.ciscospark.com/) - catalog for bots & integrations (by Cisco)
 * Support
-    * [depot](https://depot.ciscospark.com/) - hub for integrations & bots (by Cisco)
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
     
@@ -100,7 +104,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Utilities to consume with the Cisco Spark API*
 
-* [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
+* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
