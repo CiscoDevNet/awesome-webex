@@ -15,11 +15,22 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via those links.
 
 
+- [Bot frameworks](#bot-frameworks)
 - [Client SDKs](#client-sdks)
-- [Integration frameworks](#integration-frameworks)
+- [Integration Services](#integration-services)
 - [Reference](#reference)
 - [Samples](#samples)
 - [Tools](#tools)
+
+
+## Bot frameworks
+
+*Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
+
+* Javascript
+     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
+     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
+     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build Spark Bots and experiment Cisco Spark Webhooks (by ObjectIsAdvantag)
 
 
 ## Client SDKs
@@ -44,27 +55,34 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
 
 
-## Integration frameworks
+## Integration services
 
-*Libraries to create all types of Spark integrations (notifiers, watchers, interactive assistants / bots).*
+*Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
 
-* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
-* Javascript
-     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
-     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
-     * [sparkbot-starterkit](https://github.com/ObjectIsAdvantag/sparkbot-starterkit) - a minimal NodeJS starter kit to create your own bot (by ObjectIsAdvantag)
+* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
+     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
+     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
+     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
+     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
+     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
+* Wiring Engines
+     * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
 
 
 ## Reference
 
-*Documentation and other resources maintained by Cisco Product teams*
+*Developer resources maintained by Cisco Product teams*
 
 * Learn
+    * [API documentation](https://developer.ciscospark.com/quick-reference.html) - the reference documentation (by Spark for Developers)
     * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
-    * [learnings labs](https://learninglabs.cisco.com/labs/tags/spark) - tutorials (by Cisco DevNet)
+    * [learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - learn to build bots and integration (by CiscoDevNet)
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end secured service (by Cisco Spark)
+* Share
+    * [community of interest](https://developer.cisco.com/site/spark/) - share your passion for bots and integrations, learn from others (by CiscoDevNet)
+    * [creations](https://developer.cisco.com/site/devnetcreations/) - inspire others by sharing your code (by CiscoDevNet)
+    * [depot](https://depot.ciscospark.com/) - catalog for bots & integrations (by Cisco)
 * Support
-    * [depot](https://depot.ciscospark.com/) - hub for integrations & bots (by Cisco)
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
     
@@ -84,15 +102,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Tools
 
-*Utilities to interact with the Cisco Spark API, without coding.*
+*Utilities to consume with the Cisco Spark API*
 
-* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
-     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
-     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
-     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
-     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
-     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
-* [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
+* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
