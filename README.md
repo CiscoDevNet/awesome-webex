@@ -17,6 +17,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 - [Bot frameworks](#bot-frameworks)
 - [Client SDKs](#client-sdks)
+- [Integration Services](#integration-services)
 - [Reference](#reference)
 - [Samples](#samples)
 - [Tools](#tools)
@@ -26,7 +27,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
 
-* [Cloud Integration Services](#cis) - priced services with trials (see Tools section)
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
@@ -53,6 +53,20 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Web & Mobile SDKs
     * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
+
+
+## Integration services
+
+*Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
+
+* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
+     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
+     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
+     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
+     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
+     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
+* Wiring Engines
+     * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API
 
 
 ## Reference
@@ -84,14 +98,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Tools
 
-*Utilities to interact with the Cisco Spark API, without coding.*
+*Utilities to consume with the Cisco Spark API*
 
-* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
-     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
-     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
-     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
-     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
-     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - the reference API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
