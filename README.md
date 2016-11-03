@@ -107,6 +107,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Support
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
     * [geos](http://cs.co/geos) - quickly check where Cisco Spark is available (by Cisco)
+    * [media test](https://mediatest.ciscospark.com/) - test your TCP/UDP network eligibility (by Cisco)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
     
 
