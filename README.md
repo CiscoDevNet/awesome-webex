@@ -43,8 +43,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * Java
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library for consuming RESTful APIs (by Cisco)
     * NodeJS
-        * [node-sparkclient](https://github.com/marchfederico/node-sparkclient) - a simple node module (by marchfederico)
-        * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
+        * [sparkclient](https://github.com/marchfederico/node-sparkclient) - a simple node module (by marchfederico)
+        * [sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
     * Python
         * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie)
         * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
@@ -66,10 +66,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using Mailgun (by marchfederico)
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag)
+     * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - starter kit for a simple bot leveraging flint (by valgaze)
 * Python
-     * [Blog examples](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
+     * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
      * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
+     * [Walkthrough](https://developer.ciscospark.com/blog/blog-details-8110.html) - quick walkthrough to build a simple bot (by JustinDupree)
 * Ruby
      * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
 * Swift
