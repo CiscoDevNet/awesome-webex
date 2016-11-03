@@ -64,6 +64,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
      * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - integrate and automate Cisco Spark
+     * [Workato](https://www.workato.com/integrations/cisco_spark) - get more out of Cisco Spark by connecting it
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * Wiring Engines
      * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
