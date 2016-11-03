@@ -95,6 +95,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Java
      * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
+* NodeJS
+     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using www.mailgun.com (by marchfederico)
+     * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
+     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot libray (by ObjectIsAdvantag)
 * Python
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
      * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
