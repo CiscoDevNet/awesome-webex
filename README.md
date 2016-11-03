@@ -37,20 +37,21 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Helper libraries to consume Cisco Spark APIs*
 
-* Public RESTful API SDKs
+* REST API SDKs
     * Go
         * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
     * Java
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library for consuming RESTful APIs (by Cisco)
     * NodeJS
+        * [node-sparkclient](https://github.com/marchfederico/node-sparkclient) - a simple node module (by marchfederico)
         * [node-sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
-        * [node-ciscospark](https://github.com/marchfederico/node-ciscospark) - a simple node module to work with the Spark APIs (by marchfederico)
     * Python
-        * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
+        * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie)
         * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
+        * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)        
     * Ruby
         * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke)
-* Web & Mobile SDKs
+* Web & Mobile Spark SDKs
     * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
 
@@ -59,7 +60,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
 
-* <a name="cis">Cloud Integration Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
+* <a name="cis">Cloud Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
@@ -106,7 +107,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Utilities to consume with the Cisco Spark API*
 
 * [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
-* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by CiscoDevNet)
+* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
 
 
