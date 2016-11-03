@@ -108,11 +108,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Tools
 
-*Utilities to consume with the Cisco Spark API*
+*Handy tools to browse or interact with the Cisco Spark REST API*
 
 * [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
+* [cisco-spark-swagger](https://github.com/nmarus/cisco-spark-swagger) - Swagger definition file for Cisco Spark API v1 (by nmarus)
 
 
 
