@@ -63,9 +63,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
      * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
 * NodeJS
-     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using www.mailgun.com (by marchfederico)
+     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using Mailgun (by marchfederico)
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
-     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot libray (by ObjectIsAdvantag)
+     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag)
 * Python
      * [Blog examples](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
      * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
@@ -106,6 +106,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [depot](https://depot.ciscospark.com/) - catalog for bots & integrations (by Cisco)
 * Support
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
+    * [geos](http://cs.co/geos) - quickly check where Cisco Spark is available (by Cisco)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
     
 
