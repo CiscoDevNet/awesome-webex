@@ -17,9 +17,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 - [Bot frameworks](#bot-frameworks)
 - [Client SDKs](#client-sdks)
+- [Examples](#examples)
 - [Integration Services](#integration-services)
 - [Reference](#reference)
-- [Samples](#samples)
 - [Tools](#tools)
 
 
@@ -56,6 +56,26 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
 
 
+## Examples
+
+*Basic to inspiring code samples in various languages*
+
+* Java
+     * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
+* NodeJS
+     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using www.mailgun.com (by marchfederico)
+     * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
+     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot libray (by ObjectIsAdvantag)
+* Python
+     * [Blog examples](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
+     * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
+     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
+* Ruby
+     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
+* Swift
+     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers)
+
+
 ## Integration services
 
 *Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
@@ -88,26 +108,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
     
-
-## Samples
-
-*Inspiring code samples*
-
-* Java
-     * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - an extensible chat robot with Spark binding (by midoricorp)
-* NodeJS
-     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - move an email thread to a room using www.mailgun.com (by marchfederico)
-     * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
-     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot libray (by ObjectIsAdvantag)
-* Python
-     * [Blog examples](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
-     * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
-     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
-* Ruby
-     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
-* Swift
-     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers)
-
 
 ## Tools
 
