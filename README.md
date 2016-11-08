@@ -30,7 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
-     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build Spark Bots and experiment Cisco Spark Webhooks (by ObjectIsAdvantag)
+     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build bots in nodejs and experiment webhooks (by ObjectIsAdvantag)
 
 
 ## Client SDKs
