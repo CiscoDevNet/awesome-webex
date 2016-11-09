@@ -83,6 +83,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
 
 * <a name="cis">Cloud Services</a> - create integrations or assemble from pre-built modules (priced services with trials)
+     * [API.AI](https://docs.api.ai/docs/spark-integration) - create Spark bots with natural language understanding
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - pre-defined Spark templates (signin required)
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - how to build and deploy a Spark bot
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
