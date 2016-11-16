@@ -103,6 +103,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [blog](https://developer.ciscospark.com/blog-home.html) - samples and updates (by Spark for Developers)
     * [learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - learn to build bots and integration (by CiscoDevNet)
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - details the end-to-end secured service (by Cisco Spark)
+    * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - a YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco)
 * Share
     * [community of interest](https://developer.cisco.com/site/spark/) - share your passion for bots and integrations, learn from others (by CiscoDevNet)
     * [creations](https://developer.cisco.com/site/devnetcreations/) - inspire others by sharing your code (by CiscoDevNet)
