@@ -38,6 +38,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Helper libraries to consume Cisco Spark APIs*
 
 * REST API SDKs
+    * C#
+        * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - an unofficial dotnet library for consuming RESTful APIs (by darrenparkinson)
     * Go
         * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - a Go client library (by jbogarin)
     * Java
@@ -52,8 +54,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * Ruby
         * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke)
 * Web & Mobile Spark SDKs
-    * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
+    * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - a collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
 
 
 ## Examples
