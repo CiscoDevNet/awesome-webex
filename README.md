@@ -93,7 +93,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Workato](https://www.workato.com/integrations/cisco_spark) - get more out of Cisco Spark by connecting it
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - recommended Spark zaps
 * Wiring Engines
-     * [node-red](https://github.com/nmarus/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
+     * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
 
 
 ## Reference
@@ -121,11 +121,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to browse or interact with the Cisco Spark REST API*
 
-* [cisco-spark-swagger](https://github.com/nmarus/cisco-spark-swagger) - Swagger definition file for Cisco Spark API v1 (by nmarus)
+* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus)
 * [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-
 
 
 
