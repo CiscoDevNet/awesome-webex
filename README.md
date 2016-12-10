@@ -27,6 +27,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
 
+* Java
+     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - an SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco)
 * Javascript
      * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
