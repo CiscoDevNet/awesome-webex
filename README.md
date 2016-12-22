@@ -30,7 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
      * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - an SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco)
 * Javascript
-     * [flint](https://github.com/nmarus/flint/commits/master) - bot SDK for NodeJS (by nmarus)
+     * [flint](https://github.com/flint-bot/flint) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build bots in nodejs and experiment webhooks (by ObjectIsAdvantag)
 
@@ -48,7 +48,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - a Java library for consuming RESTful APIs (by Cisco)
     * NodeJS
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - a simple node module (by marchfederico)
-        * [sparky](https://github.com/nmarus/sparky) - a simple API wrapper for NodeJS (by nmarus)
+        * [sparky](https://github.com/flint-bot/sparky) - a simple API wrapper for NodeJS (by nmarus)
     * Python
         * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie)
         * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
