@@ -69,6 +69,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - an example of integration in nodejs (by ObjectIsAdvantag)
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag)
      * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - starter kit for a simple bot leveraging flint (by valgaze)
+     * [zbot](https://github.com/akalsey/zbot) - play Zork interactive game in Cisco Spark rooms or over SMS with Tropo (by akalsey)
 * Python
      * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
      * [My Spark Hero](https://github.com/hpreston/myhero_spark) - vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
