@@ -124,10 +124,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to browse or interact with the Cisco Spark REST API*
 
-* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus)
+* [generator-spark-bot](https://github.com/brh55/generator-spark-bot) - A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55)
 * [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
-
-
-
+* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus)
