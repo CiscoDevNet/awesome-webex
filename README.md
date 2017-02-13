@@ -28,11 +28,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
 
 * Java
-     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco)
+     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco).
 * Javascript
-     * [flint](https://github.com/flint-bot/flint) - Bot SDK for NodeJS (by nmarus)
-     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico)
-     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in nodejs and experiment webhooks (by ObjectIsAdvantag)
+     * [flint](https://github.com/flint-bot/flint) - Bot SDK for NodeJS (by nmarus).
+     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
+     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in nodejs and experiment webhooks (by ObjectIsAdvantag).
 
 
 ## Client SDKs
@@ -41,23 +41,23 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * REST API SDKs
     * C#
-        * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming RESTful APIs (by darrenparkinson)
+        * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming RESTful APIs (by darrenparkinson).
     * Go
-        * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - A Go client library (by jbogarin)
+        * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - A Go client library (by jbogarin).
     * Java
-        * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming RESTful APIs (by Cisco)
+        * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming RESTful APIs (by Cisco).
     * NodeJS
-        * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple node module (by marchfederico)
-        * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for NodeJS (by nmarus)
+        * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple node module (by marchfederico).
+        * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for NodeJS (by nmarus).
     * Python
-        * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie)
-        * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie)
-        * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester)
+        * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie).
+        * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie).
+        * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * Ruby
-        * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke)
+        * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
 * Web & Mobile Spark SDKs
-    * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco)
-    * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - A collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco)
+    * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - iOS SDK written in swift (by Cisco).
+    * [SDK for Javascript](https://github.com/ciscospark/spark-js-sdk) - A collection of node modules inspired from the Spark Web client's Legacy SDK (by Cisco).
 
 
 ## Examples
@@ -65,22 +65,22 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Basic to inspiring code samples in various languages*
 
 * Java
-     * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - An extensible chat robot with Spark binding (by midoricorp)
+     * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - An extensible chat robot with Spark binding (by midoricorp).
 * NodeJS
-     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico)
-     * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag)
-     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag)
-     * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze)
-     * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms or over SMS with Tropo (by akalsey)
+     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
+     * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag).
+     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
+     * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
+     * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms or over SMS with Tropo (by akalsey).
 * Python
-     * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team)
-     * [My Spark Hero](https://github.com/hpreston/myhero_spark) - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston)
-     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1)
-     * [Walkthrough](https://developer.ciscospark.com/blog/blog-details-8110.html) - Quick walkthrough to build a simple bot (by JustinDupree)
+     * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team).
+     * [My Spark Hero](https://github.com/hpreston/myhero_spark) - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).
+     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).
+     * [Walkthrough](https://developer.ciscospark.com/blog/blog-details-8110.html) - Quick walkthrough to build a simple bot (by JustinDupree).
 * Ruby
-     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44)
+     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44).
 * Swift
-     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers)
+     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers).
 
 
 ## Integration services
@@ -88,15 +88,15 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Cloud platforms and wiring engines to build Cisco Spark Apps with little to no coding*
 
 * <a name="cis">Cloud Services</a> - Create integrations or assemble from pre-built modules (priced services with trials)
-     * [API.AI](https://docs.api.ai/docs/spark-integration) - Create Spark bots with natural language understanding
-     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - Pre-defined Spark templates (signin required)
-     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - How to build and deploy a Spark bot
-     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies
-     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - Integrate and automate Cisco Spark
-     * [Workato](https://www.workato.com/integrations/cisco_spark) - Get more out of Cisco Spark by connecting it
-     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps
+     * [API.AI](https://docs.api.ai/docs/spark-integration) - Create Spark bots with natural language understanding.
+     * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - Pre-defined Spark templates (signin required).
+     * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - How to build and deploy a Spark bot.
+     * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies.
+     * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - Integrate and automate Cisco Spark.
+     * [Workato](https://www.workato.com/integrations/cisco_spark) - Get more out of Cisco Spark by connecting it.
+     * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps.
 * Wiring Engines
-     * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus)
+     * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED nodes to integrate with the Cisco Spark API (by nmarus).
 
 
 ## Reference
@@ -104,28 +104,28 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Developer resources maintained by Cisco Product teams*
 
 * Learn
-    * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers)
-    * [blog](https://developer.ciscospark.com/blog-home.html) - Samples and updates (by Spark for Developers)
-    * [learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn to build bots and integration (by CiscoDevNet)
-    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco Spark)
-    * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco)
+    * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers).
+    * [blog](https://developer.ciscospark.com/blog-home.html) - Samples and updates (by Spark for Developers).
+    * [learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn to build bots and integration (by CiscoDevNet).
+    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco Spark).
+    * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco).
 * Share
-    * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet)
-    * [creations](https://developer.cisco.com/site/devnetcreations/) - Inspire others by sharing your code (by CiscoDevNet)
-    * [depot](https://depot.ciscospark.com/) - Catalog for bots & integrations (by Cisco)
+    * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet).
+    * [creations](https://developer.cisco.com/site/devnetcreations/) - Inspire others by sharing your code (by CiscoDevNet).
+    * [depot](https://depot.ciscospark.com/) - Catalog for bots & integrations (by Cisco).
 * Support
-    * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers)
-    * [geos](http://cs.co/geos) - Quickly check where Cisco Spark is available (by Cisco)
-    * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco)
-    * [status page](https://status.ciscospark.com/) - Service availability page for the Developer API (by Spark for Developers)
+    * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers).
+    * [geos](http://cs.co/geos) - Quickly check where Cisco Spark is available (by Cisco).
+    * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco).
+    * [status page](https://status.ciscospark.com/) - Service availability page for the Developer API (by Spark for Developers).
 
 ## Tools
 
 *Handy tools to browse or interact with the Cisco Spark REST API*
 
-* [generator-spark-bot](https://github.com/brh55/generator-spark-bot) - A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55)
-* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Spark for Developers)
-* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag)
-* [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers)
-* [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55)
-* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus)
+* [generator-spark-bot](https://github.com/brh55/generator-spark-bot) - A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55).
+* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Spark for Developers).
+* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
+* [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
+* [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
+* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus).
