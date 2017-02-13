@@ -118,14 +118,14 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [geos](http://cs.co/geos) - quickly check where Cisco Spark is available (by Cisco)
     * [media test](https://mediatest.ciscospark.com/) - test your TCP/UDP network eligibility (by Cisco)
     * [status page](https://status.ciscospark.com/) - service availability page for the Developer API (by Spark for Developers)
-    
 
 ## Tools
 
 *Handy tools to browse or interact with the Cisco Spark REST API*
 
 * [generator-spark-bot](https://github.com/brh55/generator-spark-bot) - A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55)
-* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - toogle "Test mode" in the API documentation (by Spark for Developers) 
+* [interactive tool](https://developer.ciscospark.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Spark for Developers)
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - scripted Postman collections to generate code and more (by ObjectIsAdvantag)
 * [sparkcli](https://github.com/tdeckers/sparkcli) - a command line interface (by tdeckers)
+* [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55)
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus)
