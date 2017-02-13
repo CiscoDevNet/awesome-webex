@@ -33,6 +33,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [flint](https://github.com/flint-bot/flint) - bot SDK for NodeJS (by nmarus)
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - a Hubot adapter (by marchfederico)
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - build bots in nodejs and experiment webhooks (by ObjectIsAdvantag)
+     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - an SDK to build apps & bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco)
 
 
 ## Client SDKs
