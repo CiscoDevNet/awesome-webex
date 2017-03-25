@@ -67,6 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Java
      * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - An extensible chat robot with Spark binding (by midoricorp).
+     * [QuizBot](https://github.com/LucaCalabrese/codemotion-spark-bot) - Answer a technology quiz, get scored (by LucaCalabrese).
 * NodeJS
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag).
