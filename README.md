@@ -84,6 +84,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44).
 * Swift
      * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers).
+     * [Spark iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Convienience wrapper for the Spark iOS SDK, offering a drop in voice and video calling component in just a few lines of code. (by jfield44).
 
 
 ## Integration services
