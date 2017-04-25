@@ -30,7 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
      * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco).
 * Javascript
-     * [botkit](https://github.com/howdyai/botkit/blob/master/readme-ciscospark.md) - Build conversational bots that can live on multiple platforms (by Howdy.ai)
+     * [botkit](https://github.com/howdyai/botkit/blob/master/docs/readme-ciscospark.md) - Build conversational bots that can live on multiple platforms (by Howdy.ai)
      * [flint](https://github.com/flint-bot/flint) - Bot SDK for NodeJS (by nmarus).
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in nodejs and experiment webhooks (by ObjectIsAdvantag).
