@@ -117,6 +117,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco Spark).
     * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco).
 * Share
+    * [ambassadors](https://ambassador.ciscospark.com/about/) - A worldwide network of professionals (by Cisco).
     * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet).
     * [creations](https://developer.cisco.com/site/devnetcreations/) - Inspire others by sharing your code (by CiscoDevNet).
     * [depot](https://depot.ciscospark.com/) - Catalog for bots & integrations (by Cisco).
