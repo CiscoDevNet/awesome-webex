@@ -53,7 +53,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for NodeJS (by nmarus).
     * Python
         * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie).
-        * [cmlCiscoSparkSDK](https://github.com/cmlccie/cmlCiscoSparkSDK) - Pythonic classess and methods (by cmlccie).
         * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * Ruby
         * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
