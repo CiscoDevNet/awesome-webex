@@ -106,8 +106,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Reference
 
-*Developer resources maintained by Cisco Product teams*
+*Resources maintained by Cisco Product teams and Developer Communities*
 
+* Developer Spaces
+    * [Botkit devs](https://eurl.io/#SyNZuomKx) - The BotKit developer community Space (by Howdy.ai).
+    * [#spark4dev](https://developer.ciscospark.com/support.html) - Get help from Spark DevSupport and other community members (by Cisco).
 * Learn
     * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers).
     * [Spark4Devs blog](https://developer.ciscospark.com/blog-home.html) - Samples and API updates (by Spark for Developers).
