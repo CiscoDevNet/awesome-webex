@@ -70,19 +70,19 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [QuizBot](https://github.com/LucaCalabrese/codemotion-spark-bot) - Answer a technology quiz, get scored (by LucaCalabrese).
 * NodeJS
      * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
-     * [DevNet events](https://github.com/CiscoDevNet/botkit-ciscospark-samples/blob/master/devnet.js) - Conversational bot built with BotKit (by ObjectIsAdvantag)
+     * [BotKit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with BotKit (by ObjectIsAdvantag)
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag).
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
      * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
-     * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms or over SMS with Tropo (by akalsey).
+     * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms (by akalsey).
 * Python
      * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team).
      * [My Spark Hero](https://github.com/hpreston/myhero_spark) - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).
      * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).
      * [Walkthrough](https://developer.ciscospark.com/blog/blog-details-8110.html) - Quick walkthrough to build a simple bot (by JustinDupree).
 * Ruby
-     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo IVR and Cisco Spark for efficient Fault Resolution (by jfield44).
+     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System using Tropo and Cisco Spark for efficient Fault Resolution (by jfield44).
 * Swift
      * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers).
      * [Spark iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
