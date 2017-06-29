@@ -35,6 +35,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration for Cisco Spark (by tonybaloney).
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in nodejs and experiment webhooks (by ObjectIsAdvantag).
+* Python
+     * [err-backend-cisco-spark](https://github.com/panholt/err-backend-cisco-spark) - An errbot backend for Cisco Spark (by panholt).
 
 
 ## Client SDKs
@@ -117,7 +119,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Spark4Devs blog](https://developer.ciscospark.com/blog-home.html) - Samples and API updates (by Spark for Developers).
     * [DevNet learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn to build bots and integration (by CiscoDevNet).
     * [Rate limiting](https://developer.ciscospark.com/blog/blog-details-8193.html) - Explains 429 & Retry-After HTTP header (by Spark for Developers). 
-    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco Spark).
+    * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco).
     * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco).
 * Share
     * [ambassadors](https://ambassador.ciscospark.com/about/) - A worldwide network of professionals (by Cisco).
