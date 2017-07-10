@@ -121,6 +121,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Rate limiting](https://developer.ciscospark.com/blog/blog-details-8193.html) - Explains 429 & Retry-After HTTP header (by Spark for Developers). 
     * [security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco).
     * [videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco).
+    * [What's new and next](http://cs.co/spark-new-next) - Latest PDF covering Cisco Cloud Collaboration updates (by Cisco).
 * Share
     * [ambassadors](https://ambassador.ciscospark.com/about/) - A worldwide network of professionals (by Cisco).
     * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet).
@@ -130,7 +131,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers).
     * [geos](http://cs.co/geos) - Quickly check where Cisco Spark is available (by Cisco).
     * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco).
-    * [status page](https://status.ciscospark.com/) - Service availability page for the Developer API (by Spark for Developers).
+    * [status page](https://status.ciscospark.com/) - Service availability page for the Developer API (by Cisco).
+
 
 ## Tools
 
