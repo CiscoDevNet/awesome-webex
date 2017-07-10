@@ -127,6 +127,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet).
     * [creations](https://developer.cisco.com/site/devnetcreations/) - Inspire others by sharing your code (by CiscoDevNet).
     * [depot](https://depot.ciscospark.com/) - Catalog for bots & integrations (by Cisco).
+    * [partner program](help.webex.com/docs/DOC-5364) - Get Started as a Cisco Spark Partner (by Cisco).
 * Support
     * [devsupport](https://developer.ciscospark.com/support.html) - 24/7 developer support community (by Spark for Developers).
     * [geos](http://cs.co/geos) - Quickly check where Cisco Spark is available (by Cisco).
