@@ -146,3 +146,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
 * [Spark-Space-Archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus).
+* [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
