@@ -100,6 +100,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Built.io](https://flow.built.io/#/library/cisco-spark/all) - Pre-defined Spark templates (signin required).
      * [Gupshup](https://www.gupshup.io/developer/docs/bot-platform/guide/build-deploy-bot-on-cisco-spark) - How to build and deploy a Spark bot.
      * [IFTTT](https://ifttt.com/cisco_spark/recipes) - Spark recipies.
+     * [Recast](https://botconnector.recast.ai/integrations) - Collaborative platform to build, train, deploy and monitor bots.
      * [Stamplay](https://stamplay.com/integrations/cisco%20spark) - Integrate and automate Cisco Spark.
      * [Workato](https://www.workato.com/integrations/cisco_spark) - Get more out of Cisco Spark by connecting it.
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps.
