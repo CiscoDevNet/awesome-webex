@@ -30,7 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
      * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco).
 * Javascript
-     * [botkit](https://github.com/howdyai/botkit/blob/master/docs/readme-ciscospark.md) - Build conversational bots that can live on multiple platforms (by Howdy.ai).
+     * [Botkit](https://github.com/howdyai/botkit/blob/master/docs/readme-ciscospark.md) - Build conversational bots that can live on multiple platforms (by Howdy.ai).
      * [bot-connector](https://github.com/RecastAI/bot-connector/wiki/Channel-Cisco) - Connect your bot to multiple messaging channels (by Recast.ai).
      * [flint](https://github.com/flint-bot/flint) - Bot SDK for NodeJS (by nmarus).
      * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration for Cisco Spark (by tonybaloney).
@@ -73,7 +73,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [QuizBot](https://github.com/LucaCalabrese/codemotion-spark-bot) - Answer a technology quiz, get scored (by LucaCalabrese).
 * NodeJS
      * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
-     * [BotKit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with BotKit (by ObjectIsAdvantag)
+     * [Botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag).
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
@@ -114,7 +114,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Resources maintained by Cisco Product teams and Developer Communities*
 
 * Developer Spaces
-    * [Botkit devs](https://eurl.io/#SyNZuomKx) - The BotKit developer community Space (by Howdy.ai).
+    * [Botkit devs](https://eurl.io/#SyNZuomKx) - The Botkit developer community Space (by Howdy.ai).
     * [#spark4dev](https://developer.ciscospark.com/support.html) - Get help from Spark DevSupport and other community members (by Cisco).
 * Learn
     * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers).
