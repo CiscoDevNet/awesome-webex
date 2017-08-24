@@ -73,10 +73,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [QuizBot](https://github.com/LucaCalabrese/codemotion-spark-bot) - Answer a technology quiz, get scored (by LucaCalabrese).
 * NodeJS
      * [Botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
-     * [ciscospark-jira](https://github.com/promptworks/ciscospark-jira) - JIRA bot for Cisco Spark built with Botkit (by patricksmith).
+     * [ciscospark-jira](https://github.com/promptworks/ciscospark-jira) - JIRA bot built with Botkit (by patricksmith).
      * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
      * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - An example of integration in nodejs (by ObjectIsAdvantag).
+     * [spark-botkit-servicenow](https://github.com/asynchrony-ringo/spark-botkit-servicenow) - ServiceNow bot built with Botkit (by asynchrony-ringo).
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
      * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
      * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms (by akalsey).
