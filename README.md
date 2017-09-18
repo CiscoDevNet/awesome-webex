@@ -36,6 +36,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration for Cisco Spark (by tonybaloney).
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in nodejs and experiment webhooks (by ObjectIsAdvantag).
+* PHP
+     * [botman](https://github.com/botman/driver-cisco-spark) - Driver to connect Cisco Spark with BotMan (by mpociot).
 * Python
      * [err-backend-cisco-spark](https://github.com/panholt/err-backend-cisco-spark) - An errbot backend for Cisco Spark (by panholt).
 
