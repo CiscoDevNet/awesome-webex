@@ -84,6 +84,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
      * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
      * [zbot](https://github.com/akalsey/zbot) - Play Zork interactive game in Cisco Spark rooms (by akalsey).
+* PHP
+     * [botman-spark-demo](https://github.com/mpociot/botman-spark-demo) - Shows how to use BotMan in combination with Cisco Spark (by mpociot).
 * Python
      * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team).
      * [ciscosparkapi bots](https://github.com/CiscoDevNet/ciscosparkapi/tree/master/examples) - Flask, webpy and pyramid bot examples (by cmlccie).
