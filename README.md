@@ -28,7 +28,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 *Libraries to code your own bots and integrations implementing Cisco Spark Webhooks and/or the OAuth Grant Flow.*
 
 * Java
-     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the [OpenDaylight](https://wiki.opendaylight.org/view/Main_Page) platform (by Cisco).
+     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the OpenDaylight platform (by jmedved).
 * Javascript
      * [Botkit](https://github.com/howdyai/botkit/blob/master/docs/readme-ciscospark.md) - Build conversational bots that can live on multiple platforms (by Howdy.ai).
      * [bot-connector](https://github.com/RecastAI/bot-connector/wiki/Channel-Cisco) - Connect your bot to multiple messaging channels (by Recast.ai).
@@ -124,7 +124,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Botkit devs](https://eurl.io/#SyNZuomKx) - The Botkit developer community Space.
     * [Python Spark devs](https://eurl.io/#HkMxO-_9-) - The Python developer community Space.
     * [#spark4dev](https://developer.ciscospark.com/support.html) - Get help from Spark DevSupport and other community members (by Cisco).
-
 * Learn
     * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers).
     * [Spark4Devs blog](https://developer.ciscospark.com/blog-home.html) - Samples and API updates (by Spark for Developers).
