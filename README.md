@@ -122,6 +122,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Developer Spaces
     * [Botkit devs](https://eurl.io/#SyNZuomKx) - The Botkit developer community Space.
+    * [Flint devs](https://eurl.io/#rkwLEq4fZ) - The node-flint developer community Space.
     * [Python Spark devs](https://eurl.io/#HkMxO-_9-) - The Python developer community Space.
     * [#spark4dev](https://developer.ciscospark.com/support.html) - Get help from Spark DevSupport and other community members (by Cisco).
 * Learn
