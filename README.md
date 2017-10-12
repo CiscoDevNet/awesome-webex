@@ -51,6 +51,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming RESTful APIs (by darrenparkinson).
     * Go
         * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - A Go client library (by jbogarin).
+    * Haskell
+        * [cisco-spark-api](https://github.com/nshimaza/cisco-spark-api) - A Haskell bindings (by nshimaza).
     * Java
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming RESTful APIs (by Cisco).
     * NodeJS
