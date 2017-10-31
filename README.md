@@ -59,6 +59,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple node module (by marchfederico).
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for NodeJS (by nmarus).
     * Python
+        * [aiociscospark](https://github.com/andriyko/aiociscospark) - Python 3 asynchronous API client (by andriyko).
         * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie).
         * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * Ruby
