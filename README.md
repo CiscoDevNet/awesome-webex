@@ -46,7 +46,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Helper libraries to consume Cisco Spark APIs*
 
-* REST API SDKs
+* REST API
     * C#
         * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming RESTful APIs (by darrenparkinson).
     * Go
@@ -64,10 +64,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * Ruby
         * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
-* Web & Mobile Spark SDKs
-    * [SDK for Android](https://github.com/ciscospark/spark-android-sdk) -Integrate Spark messaging and calling in your Android apps (by Cisco).
+* Internal APIs
+    * [SDK for Android](https://github.com/ciscospark/spark-android-sdk) - Integrate Spark messaging and calling in your Android apps (by Cisco).
     * [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by Cisco).
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate Spark messaging and calling in your iOS apps (by Cisco).
+    * [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Cisco Spark User Experience (by Cisco).
 
 
 ## Examples
