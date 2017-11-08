@@ -56,6 +56,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * Java
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming RESTful APIs (by Cisco).
     * NodeJS
+        * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of node modules targeting our REST API (by Cisco).
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple node module (by marchfederico).
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for NodeJS (by nmarus).
     * Python
