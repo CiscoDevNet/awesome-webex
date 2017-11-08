@@ -81,6 +81,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
      * [Midori](https://github.com/midoricorp/jabbot/tree/master/bindings/jabbot-spark-binding) - An extensible chat robot with Spark binding (by midoricorp).
      * [QuizBot](https://github.com/LucaCalabrese/codemotion-spark-bot) - Answer a technology quiz, get scored (by LucaCalabrese).
+* Javascript
+     * [Web Dialer](https://github.com/achhabra2/webdialer) - Test Spark calls and overlay an existing Web site (by achhabra2).
 * NodeJS
      * [Botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
      * [ciscospark-jira](https://github.com/promptworks/ciscospark-jira) - JIRA bot built with Botkit (by patricksmith).
