@@ -139,12 +139,14 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [API documentation](https://developer.ciscospark.com/quick-reference.html) - The reference documentation (by Spark for Developers).
     * [Blog](https://developer.ciscospark.com/blog-home.html) - Samples and API updates (by Spark for Developers).
     * [DevNet learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn to build bots and integration (by CiscoDevNet).
-    * [Firewall traversal](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/whitepapers/cisco-spark-firewall-traversal-white-paper.pdf) - Whitepaper about deployment requirements (by Cisco).
-    * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/n4vzhkx) - For firewall and web security administrators (by Cisco).
     * [Rate limiting](https://developer.ciscospark.com/blog/blog-details-8193.html) - Explains 429 & Retry-After HTTP header (by Spark for Developers). 
-    * [Security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco).
     * [Videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Cisco Spark (by Cisco).
     * [What's new and next](http://cs.co/spark-new-next) - Latest PDF covering Cisco Cloud Collaboration updates (by Cisco).
+* Security
+    * [Firewall traversal](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/whitepapers/cisco-spark-firewall-traversal-white-paper.pdf) - Whitepaper about deployment requirements (by Cisco).
+    * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/n4vzhkx) - For firewall and web security administrators (by Cisco).
+    * [Security FAQs](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/esp/Cisco-Spark-Security-Frequently-Asked-Questions.pdf) - Tech Ops and Security FAQs (by Cisco).
+    * [Security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco).
 * Share
     * [ambassadors](https://ambassador.ciscospark.com/about/) - A worldwide network of professionals (by Cisco).
     * [community of interest](https://developer.cisco.com/site/spark/) - Share your passion for bots and integrations, learn from others (by CiscoDevNet).
