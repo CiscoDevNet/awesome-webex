@@ -107,7 +107,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Swift
      * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers).
      * [Spark iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
-
+     * [accounts-ciscospark](https://github.com/levensailor/accounts-ciscospark) - Meteor.js Oauth accounts package
 
 ## Integration services
 
@@ -124,6 +124,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps.
 * Wiring Engines
      * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED Node.js to integrate with the Cisco Spark API (by nmarus).
+
 
 
 ## Reference
@@ -170,5 +171,5 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
 * [Spark-Space-Archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
-* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus).
+* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus). Updated for OpenAPI (by levensailor)
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
