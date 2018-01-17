@@ -126,7 +126,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED Node.js to integrate with the Cisco Spark API (by nmarus).
 
 
-
 ## Reference
 
 *Resources maintained by Cisco Product teams and Developer Communities*
