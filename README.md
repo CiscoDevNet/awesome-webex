@@ -107,7 +107,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Swift
      * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by Spark for Developers).
      * [Spark iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
-
+     * [meteor-accounts-ciscospark](https://github.com/levensailor/accounts-ciscospark) - An accounts package for Meteor.js to easily add OAuth login with Cisco Spark to any Meteor application. (by levensailor)
 
 ## Integration services
 
@@ -124,7 +124,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps.
 * Wiring Engines
      * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED Node.js to integrate with the Cisco Spark API (by nmarus).
-     * [meteor-accounts-ciscospark](https://github.com/levensailor/accounts-ciscospark) - An accounts package for Meteor.js to easily add OAuth login with Cisco Spark. (by levensailor)
 
 
 ## Reference
