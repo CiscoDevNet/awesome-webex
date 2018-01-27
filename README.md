@@ -124,6 +124,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [Zapier](https://zapier.com/zapbook/cisco-spark/) - Recommended Spark zaps.
 * Wiring Engines
      * [node-red](https://github.com/cumberlandgroup/node-red-contrib-spark) - Node-RED Node.js to integrate with the Cisco Spark API (by nmarus).
+     * [meteor-accounts-ciscospark](https://github.com/levensailor/accounts-ciscospark) - An accounts package for Meteor.js to easily add OAuth login with Cisco Spark. (by levensailor)
 
 
 ## Reference
