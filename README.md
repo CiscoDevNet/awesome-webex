@@ -36,6 +36,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration for Cisco Spark (by tonybaloney).
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in Node.js and experiment webhooks (by ObjectIsAdvantag).
+ * Perl [cisco_Spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by AKALINUX).
 * PHP
      * [botman](https://github.com/botman/driver-cisco-spark) - Driver to connect Cisco Spark with BotMan (by mpociot).
 * Python
@@ -56,11 +57,11 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * Java
         * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming RESTful APIs (by Cisco).
     * Node.js
-        * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by Cisco).
+        * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by Cisco).Cico SparkBot implementation
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
-    * PERL
-        * [cisco-spark-Perl](https://github.com/akalinux/cisco_spark-perl) - Asyncronous HTTP Client Library (by AKALINUX).
+    * Perl
+        * [cisco_spark-Perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library (by AKALINUX).
     * PHP
         * [SparkBundle](https://github.com/CiscoVE/SparkBundle) - Symfony bundle (by CiscoVE).
     * Python
