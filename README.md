@@ -59,6 +59,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by Cisco).
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
+    * PERL
+        * [cisco-spark-Perl](https://github.com/akalinux/cisco_spark-perl) - Asyncronous HTTP Client Library (by AKALINUX).
     * PHP
         * [SparkBundle](https://github.com/CiscoVE/SparkBundle) - Symfony bundle (by CiscoVE).
     * Python
