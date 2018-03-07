@@ -71,6 +71,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * Ruby
         * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
+        * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST Kit for Ruby (by chadstachowicz).
 * Internal APIs
     * [SDK for Android](https://github.com/ciscospark/spark-android-sdk) - Integrate Spark messaging and calling in your Android apps (by Cisco).
     * [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by Cisco).
