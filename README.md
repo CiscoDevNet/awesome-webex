@@ -17,13 +17,13 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 - [Bot frameworks](#bot-frameworks)
 - [Clients SDKs](#client-sdks)
-   - [REST API]()
-   - [Internal APIs]()
+   - [REST API](#rest-api-clients)
+   - [Internal APIs](#internal-apis)
 - [Examples](#examples)
-   - [Bot samples]()
-   - [Mobile apps]()
-   - [REST API samples]()
-   - [Web SDKs & Widgets samples]()
+   - [Bot samples](#bot-samples)
+   - [Mobile apps](#mobile-apps)
+   - [REST API samples](rest-api-samples)
+   - [Web SDKs & Widgets samples](#web-sdk--widgets-samples)
 - [Integration Services](#integration-services)
 - [Reference](#reference)
 - [Tools](#tools)
@@ -51,8 +51,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 
 ## Client SDKs
-
-*REST API clients and SDKs to internal APIs*
 
 ### REST API clients
 
@@ -95,8 +93,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Examples
 
-*Basic to inspiring code samples in various languages*
-
 ### Bot samples
 
 * Java
@@ -129,7 +125,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by CiscoSpark).
     * [Notification Server](https://github.com/ciscospark/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by CiscoSpark).
-
 
 ### REST API samples
 
