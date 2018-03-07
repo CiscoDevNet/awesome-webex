@@ -36,7 +36,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
      * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration for Cisco Spark (by tonybaloney).
      * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
      * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in Node.js and experiment webhooks (by ObjectIsAdvantag).
- * Perl [cisco_Spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by AKALINUX).
+* Perl
+    * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by akalinux).
 * PHP
      * [botman](https://github.com/botman/driver-cisco-spark) - Driver to connect Cisco Spark with BotMan (by mpociot).
 * Python
@@ -61,7 +62,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
         * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
         * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
     * Perl
-        * [cisco_spark-Perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library (by AKALINUX).
+        * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library (by akalinux).
     * PHP
         * [SparkBundle](https://github.com/CiscoVE/SparkBundle) - Symfony bundle (by CiscoVE).
     * Python
@@ -87,7 +88,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Javascript
      * [Web Dialer](https://github.com/achhabra2/webdialer) - Test Spark calls and overlay an existing Web site (by achhabra2).
 * Node.js
-     * [Botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
+     * [botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
      * [ciscospark-jira](https://github.com/promptworks/ciscospark-jira) - JIRA bot built with Botkit (by patricksmith).
      * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
      * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a room using Mailgun (by marchfederico).
@@ -172,6 +173,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
-* [Spark-Space-Archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
-* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus). Updated definition file from Swagger to OpenAPI v3.0 specifications (by levensailor)
+* [spark-space-archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
+* [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus).
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
