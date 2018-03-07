@@ -22,7 +22,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [Examples](#examples)
    - [Bot samples](#bot-samples)
    - [Mobile apps](#mobile-apps)
-   - [REST API samples](rest-api-samples)
+   - [REST API samples](#rest-api-samples)
    - [Web SDKs & Widgets samples](#web-sdk--widgets-samples)
 - [Integration Services](#integration-services)
 - [Reference](#reference)
@@ -86,7 +86,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by CiscoSpark).
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate Spark messaging and calling in your iOS apps (by CiscoSpark).
     * [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Cisco Spark User Experience (by CiscoSpark).
-* Unsupported SDKs
+* Websocket Hacks
     * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
     * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by akalinux).
 
