@@ -79,13 +79,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
     * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST Kit for Ruby (by chadstachowicz)
 
-### Internal APIs
+### Advanced APIs
 
-* Official SDKs
-    * [SDK for Android](https://github.com/ciscospark/spark-android-sdk) - Integrate Spark messaging and calling in your Android apps (by CiscoSpark).
-    * [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by CiscoSpark).
-    * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate Spark messaging and calling in your iOS apps (by CiscoSpark).
-    * [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Cisco Spark User Experience (by CiscoSpark).
+* [SDK for Android](https://github.com/ciscospark/spark-android-sdk) - Integrate Spark messaging and calling in your Android apps (by CiscoSpark).
+* [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by CiscoSpark).
+* [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate Spark messaging and calling in your iOS apps (by CiscoSpark).
+* [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Cisco Spark User Experience (by CiscoSpark).
 
 
 ## Code samples
