@@ -127,8 +127,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 ### Mobile samples
 
 * Android
-    * [official ](https://github.com/ciscospark/spark-android-sdk-example) - (by CiscoSpark).
+    * [Kitchen Sink](https://github.com/ciscospark/spark-android-sdk-example) - Developer friendly sample to showcase Spark Android SDK features (by CiscoSpark).
 * iOS
+    * [Buddies](https://github.com/ciscospark/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by CiscoSpark). 
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by CiscoSpark).
     * [Notification Server](https://github.com/ciscospark/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by CiscoSpark).
