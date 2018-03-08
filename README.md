@@ -18,12 +18,12 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 - [Bot frameworks](#bot-frameworks)
 - [Clients SDKs](#client-sdks)
    - [REST API](#rest-api-clients)
-   - [Internal APIs](#internal-apis)
-- [Examples](#examples)
-   - [Bot samples](#bot-samples)
-   - [Mobile apps](#mobile-apps)
+   - [Advanced APIs](#advanced-apis)
+- [Code samples](#code-samples)
    - [REST API samples](#rest-api-samples)
-   - [Web SDKs & Widgets samples](#web-sdk--widgets-samples)
+   - [Bot samples](#bot-samples)
+   - [Mobile samples](#mobile-samples)
+   - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
 - [Integration Services](#integration-services)
 - [Reference](#reference)
 - [Tools](#tools)
@@ -86,12 +86,20 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate Spark calling into your client-side JavaScript applications (by CiscoSpark).
     * [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate Spark messaging and calling in your iOS apps (by CiscoSpark).
     * [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Cisco Spark User Experience (by CiscoSpark).
-* Websocket Hacks
-    * [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
-    * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by akalinux).
 
 
-## Examples
+## Code samples
+
+### REST API samples
+
+* Node.js
+    * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - Creating a Server-side OAuth integration (by ObjectIsAdvantag).
+    * [node-sparky-samples](https://github.com/CiscoDevNet/node-sparky-samples) - Client samples with node-sparky (by ObjectIsAdvantag).
+    * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
+* Python
+    * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team).
+* Ruby
+    * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System for efficient Fault Resolution (by jfield44).
 
 ### Bot samples
 
@@ -117,7 +125,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).
     * [Walkthrough](https://developer.ciscospark.com/blog/blog-details-8110.html) - Quick walkthrough to build a simple bot (by JustinDupree).
 
-### Mobile apps
+### Mobile samples
 
 * Android
     * [official ](https://github.com/ciscospark/spark-android-sdk-example) - (by CiscoSpark).
@@ -125,17 +133,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by CiscoSpark).
     * [Notification Server](https://github.com/ciscospark/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by CiscoSpark).
-
-### REST API samples
-
-* Node.js
-    * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - Creating a Server-side OAuth integration (by ObjectIsAdvantag).
-    * [node-sparky-samples](https://github.com/CiscoDevNet/node-sparky-samples) - Client samples with node-sparky (by ObjectIsAdvantag).
-    * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
-* Python
-    * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots as companions to the spark4devs blog (by Spark API support team).
-* Ruby
-    * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting System for efficient Fault Resolution (by jfield44).
     
 ### Web SDK & Widgets samples
 
@@ -146,7 +143,6 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with Javascript SDK (by adamweeks).
     * [webdialer](https://github.com/achhabra2/webdialer) - Test Spark calls and overlay an existing Web site (by achhabra2).
     * [widget-samples](https://github.com/CiscoDevNet/widget-samples) - Examples for the Space and Recents Widgets (by ObjectIsAdvantag).
-
 
 ## Integration services
 
@@ -201,8 +197,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ## Tools
 
-*Handy tools to browse or interact with the Cisco Spark REST API*
+*Handy tools to browse or interact with the Cisco Spark APIs*
 
+* [ciscospark-websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru Spark's native websocket (by marchfederico).
 * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Spark for Developers).
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
