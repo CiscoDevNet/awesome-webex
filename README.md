@@ -77,7 +77,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk) - Python module for consuming RESTful APIs (by Bassintag551).
 * Ruby
     * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
-    * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST Kit for Ruby (by chadstachowicz)
+    * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST Kit for Ruby (by chadstachowicz).
 
 ### Advanced APIs
 
@@ -129,7 +129,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Android
     * [Kitchen Sink](https://github.com/ciscospark/spark-android-sdk-example) - Developer friendly sample to showcase Spark Android SDK features (by CiscoSpark).
 * iOS
-    * [Buddies](https://github.com/ciscospark/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by CiscoSpark). 
+    * [Buddies](https://github.com/ciscospark/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by CiscoSpark).
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
     * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase Spark iOS SDK features (by CiscoSpark).
     * [Notification Server](https://github.com/ciscospark/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by CiscoSpark).
@@ -203,6 +203,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [interactive documentation](https://developer.ciscospark.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Spark for Developers).
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
+* [sparkguest](https://github.com/ObjectIsAdvantag/sparkguest) - CLI to generate persistent Guest tokens (by ObjectIsAdvantag).
 * [spark-space-archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for Cisco Spark API v1 (by nmarus).
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
