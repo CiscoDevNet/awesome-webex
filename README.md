@@ -129,6 +129,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Android
     * [Kitchen Sink](https://github.com/ciscospark/spark-android-sdk-example) - Developer friendly sample to showcase Spark Android SDK features (by CiscoSpark).
+    * [Spark Goggles](https://github.com/promptworks/spark-goggles) - Open Source Cisco Spark Video SDK powered ‘You See What I See’ Remote Expert App for Android powered AR Headsets (by Promptworks).
 * iOS
     * [Buddies](https://github.com/ciscospark/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by CiscoSpark).
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
