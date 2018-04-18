@@ -1,25 +1,25 @@
-This resource was made by the Cisco Spark Developer community and wouldn't be possible without you! 
+This resource was made by the Webex Teams Developer community and wouldn't be possible without you! 
 
-We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/awesome-ciscospark/graphs/contributors).
+We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/awesome-webex-teams/graphs/contributors).
 
 
 # Contribution Guidelines
 
 **To add, remove, or change the curated list:**, submit a pull request
-- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/PR_TEMPLATE.md) 
+- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-webex-teams/blob/master/PR_TEMPLATE.md) 
 - add the reason why the resource is worth being added 
 
-To set this list apart from and compliment the official Cisco Spark Documentation, this repo is a specially curated list for high-quality, actively maintained resources.
+To set this list apart from and compliment the official [Webex Teams API](https://developer.webex.com) documentation, this repo is a specially curated list for high-quality, actively maintained resources.
 - Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 - Add one resource per Pull Request.
 - Search existing resources before making a new one, as yours may be a duplicate.
-- Enforce this formatting : * [resource-name](http://link-to-your-resource-depot.com/) - A short description ends with a period.
+- Enforce this formatting : * [resource-name](http://link-to-the-resource-repo.com/) - A short description ends with a period.
 - Keep descriptions clear, concise, and non-promotional
 - Add a section if needed 
    - Needs bibliotica 3 (minimum required) to create a new section
    - Add the section description.
    - Add the section title to Table of Contents.
-- Don't mention Cisco Spark in the resource description as it's implied.
+- Don't mention Webex Teams in the resource description as it's implied.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
 
@@ -27,12 +27,12 @@ In case of doubt, we'll leave it to the community to decide if the resource shou
 10+ votes will make the resource automatically added.  
 
 
-## Quality standard
+## Quality standards
 
 To be on the list, github repositories should adhere to these quality standards:
 
 - Code functions as documented and expected
-- Generally useful to the wider community of Cisco Spark programmers
+- Generally useful to the wider community of Webex Teams developers
 - Actively maintained 
   - Regular, recent commits
   - Or, for finished projects, issues and pull requests are responded to
