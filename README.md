@@ -61,7 +61,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Haskell
     * [cisco-spark-api](https://github.com/nshimaza/cisco-spark-api) - A Haskell binding (by nshimaza).
 * Java
-    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming the RESTful APIs (by CiscoWebex).
+    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming the RESTful APIs (by CiscoSpark).
 * Node.js
     * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by CiscoSpark).
     * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
