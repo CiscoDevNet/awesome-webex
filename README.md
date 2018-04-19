@@ -61,9 +61,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Haskell
     * [cisco-spark-api](https://github.com/nshimaza/cisco-spark-api) - A Haskell binding (by nshimaza).
 * Java
-    * [spark-java-sdk](https://github.com/ciscospark/spark-java-sdk) - A Java library for consuming the RESTful APIs (by CiscoSpark).
+    * [spark-java-sdk](https://github.com/webex/spark-java-sdk) - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-    * [ciscospark](https://github.com/ciscospark/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by CiscoSpark).
+    * [ciscospark](https://github.com/webex/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by Cisco Webex).
     * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
     * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
 * Perl
@@ -81,10 +81,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 ### Advanced APIs
 
-* [SDK for Android](https://github.com/ciscospark/spark-android-sdk) - Integrate messaging and calling in your Android apps (by CiscoSpark).
-* [SDK for Browsers](https://github.com/ciscospark/spark-js-sdk#browsers) - Integrate calling into your client-side Javascript applications (by CiscoSpark).
-* [SDK for iOS](https://github.com/ciscospark/spark-ios-sdk) - Integrate messaging and calling in your iOS apps (by CiscoSpark).
-* [Widgets](https://github.com/ciscospark/react-ciscospark) - React components that mimic the Web user experience (by CiscoSpark).
+* [SDK for Android](https://github.com/webex/spark-android-sdk) - Integrate messaging and calling in your Android apps (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/spark-js-sdk#browsers) - Integrate calling into your client-side Javascript applications (by Cisco Webex).
+* [SDK for iOS](https://github.com/webex/spark-ios-sdk) - Integrate messaging and calling in your iOS apps (by Cisco Webex).
+* [Widgets](https://github.com/webex/react-ciscospark) - React components that mimic the Web user experience (by Cisco Webex).
 
 
 ## Code samples
@@ -96,7 +96,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [node-sparky-samples](https://github.com/CiscoDevNet/node-sparky-samples) - Client samples with node-sparky (by ObjectIsAdvantag).
     * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
 * Python
-    * [Blog companions](https://github.com/ciscospark/Spark-API-Demos) - Simple scripts and bots (by Webex Developer support).
+    * [Blog companions](https://github.com/webex/Spark-API-Demos) - Simple scripts and bots (by Webex Developer support).
 * Ruby
     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting dystem for efficient Fault Resolution (by jfield44).
 
@@ -128,18 +128,18 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 ### Mobile samples
 
 * Android
-    * [Kitchen Sink](https://github.com/ciscospark/spark-android-sdk-example) - Developer friendly sample to showcase the Android SDK features (by CiscoSpark).
+    * [Kitchen Sink](https://github.com/webex/spark-android-sdk-example) - Developer friendly sample to showcase the Android SDK features (by Cisco Webex).
     * [Goggles](https://github.com/promptworks/spark-goggles) - ‘You See What I See’ remote expert app for augmented reality headsets (by Promptworks).
 * iOS
-    * [Buddies](https://github.com/ciscospark/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by CiscoSpark).
+    * [Buddies](https://github.com/webex/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by Cisco Webex).
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
-    * [Kitchen Sink](https://github.com/ciscospark/spark-ios-sdk-example) - Developer friendly sample to showcase the iOS SDK features (by CiscoSpark).
-    * [Notification Server](https://github.com/ciscospark/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by CiscoSpark).
+    * [Kitchen Sink](https://github.com/webex/spark-ios-sdk-example) - Developer friendly sample to showcase the iOS SDK features (by Cisco Webex).
+    * [Notification Server](https://github.com/webex/spark-ios-sdk-example-push-notification-server) - Receive Incoming Call Notifications using Apple Push Notification Service (by Cisco Webex).
     
 ### Web SDK & Widgets samples
 
 * SDK for Browsers
-    * [call samples](https://developer.webex.com/sdk-for-browsers.html#samples) - Offical samples of the Browser SDK in action (by CiscoSpark).
+    * [call samples](https://developer.webex.com/sdk-for-browsers.html#samples) - Offical samples of the Browser SDK in action (by Cisco Webex).
 * Widgets
     * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) - Creating custom activities (by adamweeks).
     * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with the Javascript SDK (by adamweeks).
@@ -193,9 +193,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [partner program](help.webex.com/docs/DOC-5364) - Get Started as a Webex Partner (by Cisco).
 * Support
     * [devsupport](https://developer.webex.com/support.html) - 24/7 developer support community (by Webex for Developers).
-    * [geos](http://cs.co/geos) - Quickly check where Webex Teams is available (by Cisco).
-    * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco).
-    * [status page](https://status.ciscospark.com/) - Service availability page for the APIs (by Cisco).
+    * [geos](http://cs.co/geos) - Quickly check where Webex Teams is available (by Cisco Webex).
+    * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco Webex).
+    * [status page](https://status.ciscospark.com/) - Service availability page for the APIs (by Cisco Webex).
 
 
 ## Tools
