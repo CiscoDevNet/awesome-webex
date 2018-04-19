@@ -1,13 +1,17 @@
-# Awesome Webex Teams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Webex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of Webex Teams resources for Developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of **[Webex Teams](https://www.webex.com/products/teams/)** (formerly  Cisco Spark) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
+
+> Note that this repo currently gathers resources for Webex Teams only.<br/>
+> Looking for developer resources for **[Webex Meetings](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
+> Interesting in **[Webex Devices](https://www.webex.com/products/devices/index.html)** programmability? check the [Room Devices dev center](http://cs.co/roomdevices/)._
 
 
 ### Contributing
 
 Please take a quick gander at the [Contribution guidelines](https://github.com/CiscoDevNet/awesome-webex-teams/blob/master/CONTRIBUTING.md) first. Thanks to all contributors; you rock!
 
-#### If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
+If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
 
 ### Contents
