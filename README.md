@@ -2,7 +2,7 @@
 
 A curated list of [Cisco Webex](https://www.webex.com) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
-> Note that this repo currently gathers resources only for **[Webex Teams](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
+> Currently gathers resources **only for [Webex Teams](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
 > Looking for developer resources for **[Webex Meetings](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
 > Interested in **[Webex Devices](https://www.webex.com/products/devices/index.html)** programmability? check the [Room Devices dev center](http://cs.co/roomdevices/).
 
@@ -186,7 +186,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [What's new and next](http://cs.co/spark-new-next) - Latest PDF covering Cisco Cloud Collaboration updates (by Cisco).
 * Security
     * [Firewall traversal](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/whitepapers/cisco-spark-firewall-traversal-white-paper.pdf) - Whitepaper about deployment requirements (by Cisco).
-    * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/n4vzhkx) - For firewall and web security administrators (by Cisco).
+    * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/WBX264) - For firewall and web security administrators (by Cisco).
     * [Security FAQs](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/esp/Cisco-Spark-Security-Frequently-Asked-Questions.pdf) - Tech Ops and Security FAQs (by Cisco).
     * [Security whitepaper](http://www.cisco.com/c/dam/en/us/solutions/collateral/collaboration/cloud-collaboration/cisco-spark-security-white-paper.pdf) - Details the end-to-end secured service (by Cisco).
 * Share
