@@ -1,10 +1,10 @@
 # Awesome Webex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of **[Webex Teams](https://www.webex.com/products/teams/)** (formerly  Cisco Spark) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of [Cisco Webex](https://www.webex.com) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
-> Note that this repo currently gathers resources for Webex Teams only.<br/>
+> Note that this repo currently gathers resources only for **[Webex Teams](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
 > Looking for developer resources for **[Webex Meetings](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
-> Interesting in **[Webex Devices](https://www.webex.com/products/devices/index.html)** programmability? check the [Room Devices dev center](http://cs.co/roomdevices/)._
+> Interested in **[Webex Devices](https://www.webex.com/products/devices/index.html)** programmability? check the [Room Devices dev center](http://cs.co/roomdevices/).
 
 
 ### Contributing
