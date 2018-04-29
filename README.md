@@ -63,7 +63,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Go
     * [go-cisco-spark](https://github.com/jbogarin/go-cisco-spark) - A Go client library (by jbogarin).
 * Haskell
-    * [cisco-spark-api](https://github.com/nshimaza/cisco-spark-api) - A Haskell binding (by nshimaza).
+    * [webex-teams-api](https://github.com/nshimaza/webex-teams-api) - A Haskell binding (by nshimaza).
 * Java
     * [spark-java-sdk](https://github.com/webex/spark-java-sdk) - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
