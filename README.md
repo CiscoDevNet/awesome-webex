@@ -180,10 +180,10 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Learn
     * [API documentation](https://developer.webex.com/quick-reference.html) - The reference documentation (by Webex for Developers).
     * [Blog](https://developer.webex.com/blog-home.html) - Samples and API updates (by Webex for Developers).
-    * [DevNet learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn to build bots and integrations (by CiscoDevNet).
+    * [Learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn the REST API, build bots, embed Video Calls (by CiscoDevNet).
     * [Rate limiting](https://developer.webex.com/blog/blog-details-8193.html) - Explains 429 & Retry-After HTTP header (by Webex for Developers). 
     * [Videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Webex Teams (by Cisco).
-    * [What's new and next](http://cs.co/spark-new-next) - Latest PDF covering Cisco Cloud Collaboration updates (by Cisco).
+    * [What's new and coming](https://collaborationhelp.cisco.com/article/en-us/8dmbcr) - New and upcoming features for Webex Teams (by Cisco).
 * Security
     * [Firewall traversal](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/whitepapers/cisco-spark-firewall-traversal-white-paper.pdf) - Whitepaper about deployment requirements (by Cisco).
     * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/WBX264) - For firewall and web security administrators (by Cisco).
@@ -200,6 +200,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [devsupport](https://developer.webex.com/support.html) - 24/7 developer support community (by Webex for Developers).
     * [geos](http://cs.co/geos) - Quickly check where Webex Teams is available (by Cisco Webex).
     * [media test](https://mediatest.ciscospark.com/) - Test your TCP/UDP network eligibility (by Cisco Webex).
+    * [release notes](https://collaborationhelp.cisco.com/article/en-us/mqkve8) - Improvements and fixes for Webex Teams applications (by Cisco).
     * [status page](https://status.ciscospark.com/) - Service availability page for the APIs (by Cisco Webex).
 
 
