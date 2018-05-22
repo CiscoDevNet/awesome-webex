@@ -126,6 +126,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Python
     * [ciscosparkapi bots](https://github.com/CiscoDevNet/ciscosparkapi/tree/master/examples) - Flask, webpy and pyramid bot examples (by cmlccie).
     * [My Hero](https://github.com/hpreston/myhero_spark) - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).
+    * [pyIntegration](https://github.com/CTGTME/pyIntegration) - Flask OAuth example utilizing ciscosparkapi (by lorashley).
     * [Room Finder](https://github.com/Guismo1/roomfinder/tree/master/roomfinder_spark) - Bot to a meeting room finder interfaced with Microsoft Exchange (by Guismo1).
     * [Walkthrough](https://developer.webex.com/blog/blog-details-8110.html) - Quick walkthrough to build a simple bot (by JustinDupree).
 
