@@ -6,10 +6,10 @@ We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/aw
 # Contribution Guidelines
 
 **To add, remove, or change the curated list:**, submit a pull request
-- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-webex/blob/master/PR_TEMPLATE.md) 
+- follow the [Pull Request template](./PR_TEMPLATE.md) 
 - add the reason why the resource is worth being added 
 
-To set this list apart from and compliment the official [Webex Teams API](https://developer.webex.com) documentation, this repo is a specially curated list for high-quality, actively maintained resources.
+To set this list apart from and complement the official [Webex Teams API](https://developer.webex.com) documentation, this repo is a specially curated list for high-quality, actively maintained resources.
 - Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
 - Add one resource per Pull Request.
 - Search existing resources before making a new one, as yours may be a duplicate.

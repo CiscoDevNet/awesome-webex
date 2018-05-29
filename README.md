@@ -3,8 +3,8 @@
 A curated list of [Cisco Webex](https://www.webex.com) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
 > Currently gathers resources **only for [Webex Teams](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
+> Looking for developer resources for **[Webex Devices](https://www.webex.com/products/devices/)**? check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi).<br/>
 > Looking for developer resources for **[Webex Meetings](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
-> Interested in **[Webex Devices](https://www.webex.com/products/devices/index.html)** programmability? check the [Room Devices dev center](http://cs.co/roomdevices/).
 
 
 ### Contributing
