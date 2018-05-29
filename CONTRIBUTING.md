@@ -1,12 +1,12 @@
 This resource was made by the Webex Teams Developer community and wouldn't be possible without you! 
 
-We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/awesome-webex-teams/graphs/contributors).
+We appreciate and recognize [all contributors](https://github.com/CiscoDevNet/awesome-webex/graphs/contributors).
 
 
 # Contribution Guidelines
 
 **To add, remove, or change the curated list:**, submit a pull request
-- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-webex-teams/blob/master/PR_TEMPLATE.md) 
+- follow the [Pull Request template](https://github.com/CiscoDevNet/awesome-webex/blob/master/PR_TEMPLATE.md) 
 - add the reason why the resource is worth being added 
 
 To set this list apart from and compliment the official [Webex Teams API](https://developer.webex.com) documentation, this repo is a specially curated list for high-quality, actively maintained resources.

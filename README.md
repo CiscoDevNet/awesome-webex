@@ -9,7 +9,7 @@ A curated list of [Cisco Webex](https://www.webex.com) resources for developers,
 
 ### Contributing
 
-Please take a quick gander at the [Contribution guidelines](https://github.com/CiscoDevNet/awesome-webex-teams/blob/master/CONTRIBUTING.md) first. Thanks to all contributors; you rock!
+Please take a quick gander at the [Contribution guidelines](./CONTRIBUTING.md) first. Thanks to all contributors; you rock!
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
