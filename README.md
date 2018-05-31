@@ -134,6 +134,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Android
     * [Kitchen Sink](https://github.com/webex/spark-android-sdk-example) - Developer friendly sample to showcase the Android SDK features (by Cisco Webex).
     * [Goggles](https://github.com/promptworks/spark-goggles) - ‘You See What I See’ remote expert app for augmented reality headsets (by Promptworks).
+    * [Wrapper](https://github.com/weddle/webex-teams-sdk-wrapper) - Embed video calls into your Android App in a few lines of code (by weddle).
 * iOS
     * [Buddies](https://github.com/webex/spark-ios-sdk-example-buddies) - Application which combines message/call in a UI (by Cisco Webex).
     * [iOS SDK Wrapper](https://github.com/jfield44/SparkSDKWrapper) - Wrapper library offering a drop in voice and video calling component (by jfield44).
