@@ -88,6 +88,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [SDK for Android](https://github.com/webex/spark-android-sdk) - Integrate messaging and calling in your Android apps (by Cisco Webex).
 * [SDK for Browsers](https://github.com/webex/spark-js-sdk#browsers) - Integrate calling into your client-side Javascript applications (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) - Integrate messaging and calling in your iOS apps (by Cisco Webex).
+* [SDK for Windows](https://github.com/webex/spark-windows-sdk) - Integrate messaging and calling in your Windows apps (by Cisco Webex).
 * [Widgets](https://github.com/webex/react-ciscospark) - React components that mimic the Web user experience (by Cisco Webex).
 
 
