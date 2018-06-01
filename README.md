@@ -218,3 +218,4 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for the REST API v1 (by nmarus).
 * [websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru a native websocket (by marchfederico).
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
+* [roomie](https://bitbucket.org/bjolseth/roomie/) - Visualise Live Cisco Room System Utilisation (by bjolseth).
