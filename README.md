@@ -150,6 +150,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Widgets
     * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) - Creating custom activities (by adamweeks).
     * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with the Javascript SDK (by adamweeks).
+    * [space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) - Source code for the [Space Widget Demo](https://code.s4d.io/widget-space/latest/demo/index.html) (by Cisco Webex).
     * [webdialer](https://github.com/achhabra2/webdialer) - Test calls and overlay an existing Web site (by achhabra2).
     * [widget-samples](https://github.com/CiscoDevNet/widget-samples) - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
 
