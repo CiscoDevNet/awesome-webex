@@ -1,10 +1,11 @@
-# Awesome Webex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Webex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-webex)
+
 
 A curated list of [Cisco Webex](https://www.webex.com) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
-> Currently gathers resources **only for [Webex Teams](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
-> Looking for developer resources for **[Webex Devices](https://www.webex.com/products/devices/)**? check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi).<br/>
-> Looking for developer resources for **[Webex Meetings](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
+> Currently gathers resources **only for [Webex Teams APIs](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
+> Looking for developer resources for **[Webex Devices APIs](https://www.webex.com/products/devices/)**? check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi).<br/>
+> Looking for developer resources for **[Webex Meetings APIs](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
 
 
 ### Contributing
@@ -61,7 +62,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * C#
     * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).
 * Elixir
-    * [ex_webexteams](https://github.com/zpeters/ex_webexteams) - Elixir package for Webex Teams (by zpeters).
+    * [ex_webexteams](https://github.com/zpeters/ex_webexteams) - Elixir package (by zpeters).
 * Go
     * [go-cisco-webex-teams](https://github.com/jbogarin/go-cisco-webex-teams) - A Go client library (by jbogarin).
 * Haskell
@@ -80,7 +81,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [aiociscospark](https://github.com/andriyko/aiociscospark) - Python 3 asynchronous API client (by andriyko).
     * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * [spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk) - Python module for consuming the RESTful APIs (by Bassintag551).
-    * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) (formerly ciscosparkapi) - Work with the Webex Teams APIs in native Python (by cmlccie)!
+    * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) (formerly ciscosparkapi) - Work with the REST APIs in native Python (by cmlccie).
 * Ruby
     * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
     * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST kit for Ruby (by chadstachowicz).
@@ -125,7 +126,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [spark-botkit-salesforce](https://github.com/asynchrony-ringo/spark-botkit-salesforce) - SalesForce bot built with Botkit (by asynchrony-ringo).
     * [spark-botkit-servicenow](https://github.com/asynchrony-ringo/spark-botkit-servicenow) - ServiceNow bot built with Botkit (by asynchrony-ringo).
 * PHP
-    * [botman-spark-demo](https://github.com/mpociot/botman-spark-demo) - Use BotMan in combination with Webex Teams (by mpociot).
+    * [botman-spark-demo](https://github.com/mpociot/botman-spark-demo) - Use BotMan in combination with the REST API (by mpociot).
 * Python
     * [ciscosparkapi bots](https://github.com/CiscoDevNet/ciscosparkapi/tree/master/examples) - Flask, webpy and pyramid bot examples (by cmlccie).
     * [My Hero](https://github.com/hpreston/myhero_spark) - Vote for your favorite superhero, deploy as a docker container on Mantl.io (by hpreston).
@@ -189,7 +190,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [Learning track](https://learninglabs.cisco.com/tracks/collab-cloud) - Learn the REST API, build bots, embed Video Calls (by CiscoDevNet).
     * [Rate limiting](https://developer.webex.com/blog/blog-details-8193.html) - Explains 429 & Retry-After HTTP header (by Webex for Developers). 
     * [Videos](https://www.youtube.com/playlist?list=PLF2B449AC79859DC5) - A YouTube playlist to discover how to setup and manage Webex Teams (by Cisco).
-    * [What's new and coming](https://collaborationhelp.cisco.com/article/en-us/8dmbcr) - New and upcoming features for Webex Teams (by Cisco).
+    * [What's new and coming](https://collaborationhelp.cisco.com/article/en-us/8dmbcr) - New and upcoming features (by Cisco).
 * Security
     * [Firewall traversal](https://www.cisco.com/c/dam/en/us/td/docs/voice_ip_comm/cloudCollaboration/spark/whitepapers/cisco-spark-firewall-traversal-white-paper.pdf) - Whitepaper about deployment requirements (by Cisco).
     * [Network requirements](https://collaborationhelp.cisco.com/article/en-us/WBX264) - For firewall and web security administrators (by Cisco).
