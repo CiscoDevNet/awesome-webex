@@ -60,6 +60,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * C#
     * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).
+* Elixir
+    * [ex_webexteams](https://github.com/zpeters/ex_webexteams) - Elixir package for Webex Teams (by zpeters).
 * Go
     * [go-cisco-webex-teams](https://github.com/jbogarin/go-cisco-webex-teams) - A Go client library (by jbogarin).
 * Haskell
