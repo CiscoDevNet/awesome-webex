@@ -76,9 +76,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [SparkBundle](https://github.com/CiscoVE/SparkBundle) - Symfony bundle (by CiscoVE).
 * Python
     * [aiociscospark](https://github.com/andriyko/aiociscospark) - Python 3 asynchronous API client (by andriyko).
-    * [ciscosparkapi](https://github.com/CiscoDevNet/ciscosparkapi) - Simple, lightweight, scalable Python API wrapper (by cmlccie).
     * [pyCiscoSpark](https://github.com/brbester/pyCiscoSpark) - Python library (by brbester).
     * [spark-python-sdk](https://github.com/Bassintag551/spark-python-sdk) - Python module for consuming the RESTful APIs (by Bassintag551).
+    * [webexteamssdk](https://github.com/CiscoDevNet/webexteamssdk) (formerly ciscosparkapi) - Work with the Webex Teams APIs in native Python (by cmlccie)!
 * Ruby
     * [cisco_spark-ruby](https://github.com/NGMarmaduke/cisco_spark-ruby) - Ruby client (by NGMarmaduke).
     * [ciscospark-ruby](https://github.com/Cloverhound/ciscospark-ruby) - REST kit for Ruby (by chadstachowicz).
