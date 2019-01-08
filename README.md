@@ -52,8 +52,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * PHP
     * [botman](https://github.com/botman/driver-cisco-spark) - Driver to connect with BotMan (by mpociot).
 * Python
-    * [err-backend-cisco-spark](https://github.com/panholt/err-backend-cisco-spark) - An errbot backend (by panholt).
-    * [err-backend-cisco-webex-teams](https://github.com/marksull/err-backend-cisco-webex-teams) - An errbot backend (by marksull).
+    * [err-backend-cisco-spark](https://github.com/panholt/err-backend-cisco-spark) - An [errbot](http://errbot.io/en/latest/) backend (by panholt).
+    * [err-backend-cisco-webex-teams](https://github.com/marksull/err-backend-cisco-webex-teams) - An [errbot](http://errbot.io/en/latest/) backend (by marksull).
 
 
 ## Client SDKs
