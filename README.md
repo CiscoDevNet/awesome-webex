@@ -106,6 +106,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
 * Python
     * [Blog companions](https://github.com/webex/Spark-API-Demos) - Simple scripts and bots (by Webex Developer support).
+    * [oAuth Flask example](https://github.com/DJF3/Webex-Teams-Flask-oAuth) - Simple script showing how oAuth works using Flask (by DJF3)
 * Ruby
     * [Fault Report](https://github.com/jfield44/TropoFaultReport) - Reporting dystem for efficient Fault Resolution (by jfield44).
 
