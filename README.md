@@ -221,7 +221,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
-* [spark-space-archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
+* [teams-space-archive-v2](https://github.com/DJF3/Webex-Teams-Space-Archive-v2) - Archive messages to a single HTML file NEW (by DJF3).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for the REST API v1 (by nmarus).
 * [websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru a native websocket (by marchfederico).
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
