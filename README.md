@@ -154,9 +154,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Widgets
     * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) - Creating custom activities (by adamweeks).
     * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with the Javascript SDK (by adamweeks).
-    * [space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) - Source code for the [Space Widget Demo](https://code.s4d.io/widget-space/latest/demo/index.html) (by Cisco Webex).
     * [webdialer](https://github.com/achhabra2/webdialer) - Test calls and overlay an existing Web site (by achhabra2).
     * [widget-samples](https://github.com/CiscoDevNet/widget-samples) - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
+    * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) - Source code for the Space Widget Demo (by Cisco Webex).
 
 
 ## Integration services
@@ -219,6 +219,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [guestissuer](https://github.com/ObjectIsAdvantag/guestissuer) - CLI to generate Persistent Guest tokens (by ObjectIsAdvantag).
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
+* [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [spark-space-archive](https://github.com/DJF3/Spark-Space-Archive) - Archive messages to a single HTML file (by DJF3).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for the REST API v1 (by nmarus).
