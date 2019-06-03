@@ -54,6 +54,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Python
     * [err-backend-cisco-spark](https://github.com/panholt/err-backend-cisco-spark) - An errbot backend (by panholt).
     * [err-backend-cisco-webex-teams](https://github.com/marksull/err-backend-cisco-webex-teams) - An errbot backend (by marksull).
+    * [webexteamsbot](https://github.com/hpreston/webexteamsbot) - A framework for simple '/command' bots (by hpreston)
 
 
 ## Client SDKs
