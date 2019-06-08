@@ -101,7 +101,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 ### REST API samples
 
 * Node.js
-    * [integration-sample](https://github.com/CiscoDevNet/spark-integration-sample) - Creating a server-side OAuth integration (by ObjectIsAdvantag).
+    * [integration-sample](https://github.com/CiscoDevNet/webex-integration-sample) - Creating a server-side OAuth integration (by ObjectIsAdvantag).
     * [node-sparky-samples](https://github.com/CiscoDevNet/node-sparky-samples) - Client samples with node-sparky (by ObjectIsAdvantag).
     * [spark-messages](https://github.com/brh55/spark-messages) - A collection of helpers to ensure consistent formatting of markdown messages (by brh55).
 * Python
