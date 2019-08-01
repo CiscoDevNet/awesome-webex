@@ -61,6 +61,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 ### REST API clients
 
 * C#
+    * [WxTeamsSharp](https://github.com/FooBartn/WxTeamsSharp) - .NET Standard Library for Webex Teams API (by FooBartn)
     * [SparkDotNet](https://github.com/darrenparkinson/SparkDotNet) - An unofficial dotnet library for consuming the RESTful APIs (by darrenparkinson).
 * Elixir
     * [ex_webexteams](https://github.com/zpeters/ex_webexteams) - Elixir package (by zpeters).
