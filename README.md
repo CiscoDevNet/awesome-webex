@@ -43,7 +43,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Javascript
     * [Botkit](https://github.com/howdyai/botkit/tree/master/packages/botbuilder-adapter-webex) - Build conversational bots that can live on multiple platforms (by Howdy.ai).
     * [bot-connector](https://github.com/RecastAI/bot-connector/wiki/Channel-Cisco) - Connect your bot to multiple messaging channels (by Recast.ai).
-    * [flint](https://github.com/flint-bot/flint) - Bot SDK for Node.js (by nmarus).
+    * [webex-bot-node-framework](https://github.com/webex/webex-bot-node-framework) - A framework for creating Webex Teams bots using Node and Express (successor to [flint](https://github.com/flint-bot/flint)) (by jpjpjp)
     * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration (by tonybaloney).
     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in Node.js and experiment webhooks (by ObjectIsAdvantag).
@@ -120,6 +120,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
     * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
     * [zbot](https://github.com/akalsey/zbot) - Play the Zork interactive game in spaces (by akalsey).
+    * [webex-bot-starter](https://github.com/WebexSamples/webex-bot-starter) - A template for building a Webex Teams bot using [webex-node-bot-framework](https://github.com/webex/webex-bot-node-framework) (by fortunesmith)
+    * [webex-card-school](https://github.com/WebexSamples/webex-card-school) -  Instructional bot providing interactive learning about Webex Teams Buttons and Cards (by jpjpjp)
 * Node.js (Botkit)
     * [botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
     * [botkit-template](https://github.com/CiscoDevNet/botkit-template) - Best practices to bootstrap a Botkit project (by ObjectIsAdvantag).
