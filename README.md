@@ -71,9 +71,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Java
     * [spark-java-sdk](https://github.com/webex/spark-java-sdk) - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
-    * [ciscospark](https://github.com/webex/spark-js-sdk#nodejs) - A collection of Node.js modules targeting our REST API (by Cisco Webex).
     * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
     * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
+    * [webex-js-sdk](https://github.com/webex/webex-js-sdk) - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
 * Perl
     * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library (by akalinux).
 * PHP
