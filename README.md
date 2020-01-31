@@ -73,7 +73,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Node.js
     * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
     * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
-    * [webex-js-sdk](https://github.com/webex/webex-js-sdk) - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
+    * [webex-js-sdk](https://github.com/webex/webex-js-sdk/tree/master/packages/node_modules/webex) - Wrapper maintained by Cisco's engineering group (by Cisco Webex).
 * Perl
     * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library (by akalinux).
 * PHP
