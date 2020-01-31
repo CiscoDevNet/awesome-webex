@@ -47,6 +47,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [hubot-spark](https://github.com/tonybaloney/hubot-spark) - A Hubot integration (by tonybaloney).
     * [hubot-sparkwebhook](https://github.com/marchfederico/hubot-sparkwebhook) - A Hubot adapter (by marchfederico).
     * [node-sparkbot](https://github.com/CiscoDevNet/node-sparkbot) - Build bots in Node.js and experiment webhooks (by ObjectIsAdvantag).
+    * [webex-bot-node-framework](https://github.com/webex/webex-bot-node-framework) - A port of flint using the webex-js-sdk (by jpjpjp).
 * Perl
     * [cisco_spark-perl](https://github.com/akalinux/cisco_spark-perl) - Asynchronous Bot and HTTP Client Library for Perl (by akalinux).
 * PHP
