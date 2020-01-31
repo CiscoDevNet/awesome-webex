@@ -40,7 +40,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Java
     * [odl-sparkbot](https://github.com/CiscoDevNet/odl-sparkbot) - An SDK for developing clients and bots on top of the OpenDaylight platform (by jmedved).
-* Javascript
+* JavaScript
     * [Botkit](https://github.com/howdyai/botkit/tree/master/packages/botbuilder-adapter-webex) - Build conversational bots that can live on multiple platforms (by Howdy.ai).
     * [bot-connector](https://github.com/RecastAI/bot-connector/wiki/Channel-Cisco) - Connect your bot to multiple messaging channels (by Recast.ai).
     * [flint](https://github.com/flint-bot/flint) - Bot SDK for Node.js (by nmarus).
@@ -91,7 +91,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 ### Advanced APIs
 
 * [SDK for Android](https://github.com/webex/spark-android-sdk) - Integrate messaging and calling in your Android apps (by Cisco Webex).
-* [SDK for Browsers](https://github.com/webex/spark-js-sdk#browsers) - Integrate calling into your client-side Javascript applications (by Cisco Webex).
+* [SDK for Browsers](https://github.com/webex/spark-js-sdk#browsers) - Integrate calling into your client-side JavaScript applications (by Cisco Webex).
 * [SDK for iOS](https://github.com/webex/spark-ios-sdk) - Integrate messaging and calling in your iOS apps (by Cisco Webex).
 * [SDK for Windows](https://github.com/webex/spark-windows-sdk) - Integrate messaging and calling in your Windows apps (by Cisco Webex).
 * [Widgets](https://github.com/webex/react-ciscospark) - React components that mimic the Web user experience (by Cisco Webex).
@@ -154,7 +154,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [call samples](https://developer.webex.com/sdk-for-browsers.html#samples) - Offical samples of the Browser SDK in action (by Cisco Webex).
 * Widgets
     * [custom-menu](https://github.com/adamweeks/spark-widget-custom-menu) - Creating custom activities (by adamweeks).
-    * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with the Javascript SDK (by adamweeks).
+    * [oauth-example](https://github.com/adamweeks/spark-widget-oauth-example) - Widget OAuth example with the JavaScript SDK (by adamweeks).
     * [webdialer](https://github.com/achhabra2/webdialer) - Test calls and overlay an existing Web site (by achhabra2).
     * [widget-samples](https://github.com/CiscoDevNet/widget-samples) - Examples for the Space and Recents widgets (by ObjectIsAdvantag).
     * [widget-space-demo](https://github.com/webex/react-ciscospark/tree/master/packages/node_modules/%40ciscospark/widget-space-demo) - Source code for the Space Widget Demo (by Cisco Webex).
