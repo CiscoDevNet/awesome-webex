@@ -20,18 +20,21 @@ If you see a package or project here that is no longer maintained or is not a go
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
 
-- [Bot frameworks](#bot-frameworks)
-- [Clients SDKs](#client-sdks)
-   - [REST API](#rest-api-clients)
-   - [Advanced APIs](#advanced-apis)
-- [Code samples](#code-samples)
-   - [REST API samples](#rest-api-samples)
-   - [Bot samples](#bot-samples)
-   - [Mobile samples](#mobile-samples)
-   - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
-- [Integration Services](#integration-services)
-- [Reference](#reference)
-- [Tools](#tools)
+- [Awesome Webex ![Awesome](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-webex)](#awesome-webex-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22-img-src%22httpsstaticproductiondevnetcloudcomcodeexchangeassetsimagesdevnet-publishedsvg%22-alt%22published%22)
+    - [Contributing](#contributing)
+    - [Contents](#contents)
+  - [Bot frameworks](#bot-frameworks)
+  - [Client SDKs](#client-sdks)
+    - [REST API clients](#rest-api-clients)
+    - [Advanced APIs](#advanced-apis)
+  - [Code samples](#code-samples)
+    - [REST API samples](#rest-api-samples)
+    - [Bot samples](#bot-samples)
+    - [Mobile samples](#mobile-samples)
+    - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
+  - [Integration services](#integration-services)
+  - [Reference](#reference)
+  - [Tools](#tools)
 
 
 ## Bot frameworks
@@ -183,7 +186,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 * Developer Community Spaces
     * [Botkit devs](https://eurl.io/#SyNZuomKx) - The Botkit developer community space.
-    * [Flint devs](https://eurl.io/#rkwLEq4fZ) - The node-flint developer community space.
+    * [Flint devs](https://eurl.io/#rkwLEq4fZ) - The node-flint developer community space.  Note that the flint framework is no longer being sustained.   Flint developers may like the [webex-node-bot-framework](https://github.com/webex/webex-bot-node-framework) which is based on flint.
+    * [Webex Node Bot Fremwork Devs](https://eurl.io/#BJ7gmlSeU) - The Webex Node Bot Framework developer community space.
     * [Python devs](https://eurl.io/#HkMxO-_9-) - The Python developer community space.
     * [#webex4devs](https://developer.webex.com/support.html) - Get help from developer support and community (by Webex for Developers).
 * Learn
