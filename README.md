@@ -20,18 +20,21 @@ If you see a package or project here that is no longer maintained or is not a go
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
 
-- [Bot frameworks](#bot-frameworks)
-- [Clients SDKs](#client-sdks)
-   - [REST API](#rest-api-clients)
-   - [Advanced APIs](#advanced-apis)
-- [Code samples](#code-samples)
-   - [REST API samples](#rest-api-samples)
-   - [Bot samples](#bot-samples)
-   - [Mobile samples](#mobile-samples)
-   - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
-- [Integration Services](#integration-services)
-- [Reference](#reference)
-- [Tools](#tools)
+- [Awesome Webex ![Awesome](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-webex)](#awesome-webex-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22-img-src%22httpsstaticproductiondevnetcloudcomcodeexchangeassetsimagesdevnet-publishedsvg%22-alt%22published%22)
+    - [Contributing](#contributing)
+    - [Contents](#contents)
+  - [Bot frameworks](#bot-frameworks)
+  - [Client SDKs](#client-sdks)
+    - [REST API clients](#rest-api-clients)
+    - [Advanced APIs](#advanced-apis)
+  - [Code samples](#code-samples)
+    - [REST API samples](#rest-api-samples)
+    - [Bot samples](#bot-samples)
+    - [Mobile samples](#mobile-samples)
+    - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
+  - [Integration services](#integration-services)
+  - [Reference](#reference)
+  - [Tools](#tools)
 
 
 ## Bot frameworks
@@ -119,7 +122,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [email2spark](https://github.com/marchfederico/email2spark/blob/master/email2spark.js) - Move an email thread to a space using Mailgun (by marchfederico).
     * [generator-spark-bot](https://github.com/brh55/generator-spark-bot) - A yeoman generator that scaffolds out a bot with usability and simplicity in mind (by brh55).
     * [sparkbot-samples](https://github.com/CiscoDevNet/node-sparkbot-samples) - Examples of bots, leveraging the node-sparkbot framework (by ObjectIsAdvantag).
-    * [sparkbotstarter](https://github.com/valgaze/sparkbotstarter) - Starter kit for a simple bot leveraging flint (by valgaze).
+    * [webex-bot-starter](https://github.com/WebexSamples/webex-bot-starter) - Starter kit for a simple bot leveraging the webex-node-bot-framework (by WebexSamples).
     * [zbot](https://github.com/akalsey/zbot) - Play the Zork interactive game in spaces (by akalsey).
 * Node.js (Botkit)
     * [botkit samples](https://github.com/CiscoDevNet/botkit-ciscospark-samples) - Conversational bot samples built with Botkit (by ObjectIsAdvantag).
