@@ -70,7 +70,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * Haskell
     * [webex-teams-api](https://github.com/nshimaza/webex-teams-api) - A Haskell binding (by nshimaza).
 * Java
-    * [spark-java-sdk](https://github.com/webex/spark-java-sdk) - A Java library for consuming the RESTful APIs (by Cisco Webex).
+    * [webex-java-sdk](https://github.com/webex/webex-java-sdk) - A Java library for consuming the RESTful APIs (by Cisco Webex).
 * Node.js
     * [sparkclient](https://github.com/marchfederico/node-sparkclient) - A simple Node.js module (by marchfederico).
     * [sparky](https://github.com/flint-bot/sparky) - A simple API wrapper for Node.js (by nmarus).
