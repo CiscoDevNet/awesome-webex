@@ -164,6 +164,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 
 *Handy tools to browse or interact with the APIs*
 
+* [admin sandbox](https://developer.webex.com/docs/api/guides/admin-api#administration-sandbox) - apply for administrator rights to a Sandbox Organization (by Cisco Webex).
 * [guestissuer](https://github.com/ObjectIsAdvantag/guestissuer) - CLI to generate Persistent Guest tokens (by ObjectIsAdvantag).
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
