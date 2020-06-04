@@ -30,6 +30,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
    - [Mobile samples](#mobile-samples)
    - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
 - [Developer Tools](#developer-tools)
+   - [Postman collections](#postman)
 - [Integration Services](#integration-services)
 - [Reference](#reference)
 
@@ -167,7 +168,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [admin sandbox](https://developer.webex.com/docs/api/guides/admin-api#administration-sandbox) - apply for administrator rights to a Sandbox Organization (by Cisco Webex).
 * [guestissuer](https://github.com/ObjectIsAdvantag/guestissuer) - CLI to generate Persistent Guest tokens (by ObjectIsAdvantag).
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
-* [postman-ciscospark](https://github.com/CiscoDevNet/postman-ciscospark) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
+* <a name="postman">Postman</a>
+   * [postman-webex](https://github.com/CiscoDevNet/postman-webex) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
+   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) - Postman collection to demonstrate using the Meetings REST APIs(by Cisco Webex).
 * [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for the REST API v1 (by nmarus).
