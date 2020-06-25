@@ -170,8 +170,9 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [guestissuer](https://github.com/ObjectIsAdvantag/guestissuer) - CLI to generate Persistent Guest tokens (by ObjectIsAdvantag).
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * <a name="postman">Postman</a>
-   * [postman-webex](https://github.com/CiscoDevNet/postman-webex) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
-   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) - Postman collection to demonstrate using the Meetings REST APIs(by Cisco Webex).
+   * [postman-webex](https://github.com/CiscoDevNet/postman-webex) - Scripted collections for Messaging API, Admin API and Cards (by ObjectIsAdvantag).
+   * [postman-webex-calling](https://github.com/webex/postman-webex-calling) - Collection to demonstrate using the Calling APIs (by Cisco Webex).
+   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) - Collection to demonstrate using the Meetings REST APIs (by Cisco Webex).
 * [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [swagger-cisco-spark](https://github.com/cumberlandgroup/swagger-cisco-spark) - Swagger definition file for the REST API v1 (by nmarus).
