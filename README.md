@@ -20,21 +20,18 @@ If you see a package or project here that is no longer maintained or is not a go
 DISCLAIMER: Cisco does not make any commitments about the resources listed in this document, nor the accuracy of the third party resources and any content accessible via the links below.
 
 
-- [Awesome Webex ![Awesome](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-webex)](#awesome-webex-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome-img-srchttpsstaticproductiondevnetcloudcomcodeexchangeassetsimagesdevnet-publishedsvg-altpublished)
-    - [Contributing](#contributing)
-    - [Contents](#contents)
-  - [Bot frameworks](#bot-frameworks)
-  - [Client SDKs](#client-sdks)
-    - [REST API clients](#rest-api-clients)
-    - [Advanced APIs](#advanced-apis)
-  - [Code samples](#code-samples)
-    - [REST API samples](#rest-api-samples)
-    - [Bot samples](#bot-samples)
-    - [Mobile samples](#mobile-samples)
-    - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
-  - [Developer Tools](#developer-tools)
-  - [Integration services](#integration-services)
-  - [Reference](#reference)
+- [Bot frameworks](#bot-frameworks)
+- [Clients SDKs](#client-sdks)
+   - [REST API](#rest-api-clients)
+   - [Advanced APIs](#advanced-apis)
+- [Code samples](#code-samples)
+   - [REST API samples](#rest-api-samples)
+   - [Bot samples](#bot-samples)
+   - [Mobile samples](#mobile-samples)
+   - [Web SDK & Widgets samples](#web-sdk--widgets-samples)
+- [Integration Services](#integration-services)
+- [Reference](#reference)
+- [Tools](#tools)
 
 
 ## Bot frameworks
@@ -172,8 +169,8 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [interactive documentation](https://developer.webex.com/quick-reference.html) - Toogle "Test mode" in the API documentation (by Webex for Developers).
 * <a name="postman">Postman</a>
    * [postman-webex](https://github.com/CiscoDevNet/postman-webex) - Scripted Postman collections to generate code and more (by ObjectIsAdvantag).
-   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) - Postman collection to demonstrate using the Meetings REST APIs(by Cisco Webex).
    * [postman-webex-calling](https://github.com/webex/postman-webex-calling) - Postman collection to demonstrate using the Webex Calling APIs(by Cisco Webex).
+   * [postman-webex-meetings](https://github.com/webex/postman-webex-meetings) - Postman collection to demonstrate using the Meetings REST APIs(by Cisco Webex).
 
 * [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
