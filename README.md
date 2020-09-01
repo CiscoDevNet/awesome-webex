@@ -1,12 +1,10 @@
 # Awesome Webex [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/CiscoDevNet/awesome-webex)
 
 
-A curated list of [Cisco Webex](https://www.webex.com) resources for developers, inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of [Webex Developer Resources](https://developer.webex.com), inspired by [awesome-go](https://github.com/avelino/awesome-go) and [awesome-python](https://github.com/vinta/awesome-python).
 
-> Currently gathers resources **only for [Webex Teams APIs](https://www.webex.com/products/teams/)** (formerly Cisco Spark) as documented at [Webex for Developers](https://developer.webex.com).<br/>
-> Looking for developer resources for **[Webex Devices APIs](https://www.webex.com/products/devices/)**? check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi).<br/>
-> Looking for developer resources for **[Webex Meetings APIs](https://www.webex.com/products/meetings/)**? check the [Getting Started guide for Webex Meetings](https://developer.cisco.com/site/webex-developer/develop-test/getting-started/).<br/>
-
+> Note that this list covers Webex Messaging, Meetings and Devices APIs and SDKs, as well as Webex Admin APIs.
+> Check [awesome-xapi](https://github.com/CiscoDevNet/awesome-xapi) if you are interested in developer resources for on-premises Cisco Collaboration Devices.<br/>
 
 ### Contributing
 
