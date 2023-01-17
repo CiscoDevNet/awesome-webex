@@ -174,6 +174,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
 * [Space widget demo](https://code.s4d.io/widget-space/latest/demo/index.html) - Teams Space widget demo (by Cisco Webex).
 * [sparkcli](https://github.com/tdeckers/sparkcli) - A command line interface (by tdeckers).
 * [teams-space-archive](https://github.com/DJF3/Webex-Teams-Space-Archive-v2) - Archive messages to a single HTML file (by DJF3).
+* [webex-teams-cli](https://github.com/tejzpr/webex-teams-cli) - A CLI tool with multiple capabilities (by tejzpr).
 * [webex-tokens](https://webex-token.herokuapp.com) - Generate scoped tokens for admins (by ObjectIsAdvantag).
 * [websocket-events](https://github.com/marchfederico/ciscospark-websocket-events) - An unsupported hack to get events thru a native websocket (by marchfederico).
 * [whproxy](https://github.com/sgrimee/whproxy) - Proxy incoming webhooks to established websockets (by sgrimee).
